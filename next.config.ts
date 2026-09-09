@@ -4,6 +4,10 @@ const nextConfig: NextConfig = {
   images: {
     remotePatterns: [{protocol: 'https', hostname: 'cdn.sanity.io'}],
   },
+  async redirects() {
+    if (!process.env.VERCEL) return []
+    return [{source: '/studio/:path*', destination: 'https://cms-yangnarstudio.sanity.studio/:path*', permanent: false}]
+  },
 }
 
 export default nextConfig

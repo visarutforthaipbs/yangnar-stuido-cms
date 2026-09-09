@@ -37,6 +37,12 @@ npm run dev
 - Website: <http://localhost:3000>
 - Embedded Studio: <http://localhost:3000/studio>
 
+## Deploy the frontend
+
+Import this repository into Vercel and keep **Root Directory** set to `./`. Vercel detects Next.js and uses `npm run build` automatically. No required secret is needed for the current public Sanity dataset; the values in `.env.example` can still be added as overrides.
+
+On Vercel, `/studio` redirects editors to the Studio hosted by Sanity. Local development keeps the embedded `/studio` route.
+
 ## Content operations
 
 ```bash

@@ -1,12 +1,12 @@
 import {createClient} from 'next-sanity'
 import {fallbackContent, type HomeContent} from './content'
 
-const projectId = process.env.NEXT_PUBLIC_SANITY_PROJECT_ID
+const projectId = process.env.NEXT_PUBLIC_SANITY_PROJECT_ID || 'u4ki4bgu'
 const dataset = process.env.NEXT_PUBLIC_SANITY_DATASET || 'production'
 const apiVersion = process.env.NEXT_PUBLIC_SANITY_API_VERSION || '2026-09-09'
 
-export const sanityConfigured = Boolean(projectId && projectId !== 'your-project-id')
-const client = sanityConfigured ? createClient({projectId: projectId!, dataset, apiVersion, useCdn: true}) : null
+export const sanityConfigured = Boolean(projectId)
+const client = createClient({projectId, dataset, apiVersion, useCdn: true})
 
 const homeQuery = `{
   "settings": *[_type == "siteSettings"][0]{
@@ -28,7 +28,6 @@ const homeQuery = `{
 }`
 
 export async function getHomeContent(): Promise<{content: HomeContent; usingCms: boolean}> {
-  if (!client) return {content: fallbackContent, usingCms: false}
   try {
     const data = await client.fetch<Partial<HomeContent>>(homeQuery, {}, {next: {revalidate: 60}})
     return {
