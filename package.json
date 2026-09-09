@@ -1,0 +1,31 @@
+{
+  "name": "yangnar-studio-website",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "import:mock": "sanity exec sanity/scripts/importMockContent.ts --with-user-token",
+    "deploy:studio": "SANITY_STUDIO_HOSTED=true sanity deploy --url cms-yangnarstudio --title \"Yangnar Studio Content\" --yes"
+  },
+  "dependencies": {
+    "@sanity/vision": "6.13.1",
+    "next": "16.3.4",
+    "next-sanity": "13.3.4",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "sanity": "6.13.1",
+    "styled-components": "6.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "26.5.0",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "19.2.7",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.3.4",
+    "typescript": "6.0.3"
+  }
+}

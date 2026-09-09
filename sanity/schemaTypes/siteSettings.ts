@@ -1,0 +1,35 @@
+import {defineArrayMember, defineField, defineType} from 'sanity'
+
+export const siteSettingsType = defineType({
+  name: 'siteSettings',
+  title: 'Website settings',
+  type: 'document',
+  groups: [
+    {name: 'intro', title: 'Hero & introduction', default: true},
+    {name: 'practice', title: 'Studio & practice'},
+    {name: 'contact', title: 'Contact & inquiry'},
+    {name: 'seo', title: 'SEO'},
+  ],
+  fields: [
+    defineField({name: 'studioName', title: 'Studio name', type: 'string', group: 'intro', initialValue: 'Yangnar Studio'}),
+    defineField({name: 'heroEyebrow', title: 'Hero eyebrow', type: 'string', group: 'intro'}),
+    defineField({name: 'heroTitle', title: 'Hero headline', type: 'text', rows: 3, group: 'intro', validation: (rule) => rule.required()}),
+    defineField({name: 'heroIntro', title: 'Hero introduction', type: 'text', rows: 3, group: 'intro'}),
+    defineField({name: 'heroImage', title: 'Hero image', type: 'image', group: 'intro', options: {hotspot: true}}),
+    defineField({name: 'philosophy', title: 'Design-build philosophy', type: 'array', group: 'practice', of: [defineArrayMember({type: 'block'})]}),
+    defineField({name: 'philosophyPillars', title: 'Philosophy pillars', type: 'array', group: 'practice', of: [defineArrayMember({type: 'object', fields: [defineField({name: 'title', title: 'Title', type: 'string'}), defineField({name: 'description', title: 'Description', type: 'text', rows: 3})]})]}),
+    defineField({name: 'practice', title: 'Practice description', type: 'array', group: 'practice', of: [defineArrayMember({type: 'block'})]}),
+    defineField({name: 'founders', title: 'Founders', type: 'array', group: 'practice', of: [defineArrayMember({type: 'object', fields: [defineField({name: 'name', title: 'Name', type: 'string'}), defineField({name: 'role', title: 'Role', type: 'string'})]})]}),
+    defineField({name: 'workflow', title: 'Delivery workflow', type: 'array', group: 'practice', of: [defineArrayMember({type: 'string'})]}),
+    defineField({name: 'email', title: 'Email', type: 'string', group: 'contact'}),
+    defineField({name: 'phone', title: 'Phone', type: 'string', group: 'contact'}),
+    defineField({name: 'secondaryPhone', title: 'Secondary phone', type: 'string', group: 'contact'}),
+    defineField({name: 'address', title: 'Address', type: 'text', rows: 3, group: 'contact'}),
+    defineField({name: 'socialLinks', title: 'Social links', type: 'array', group: 'contact', of: [defineArrayMember({type: 'object', fields: [defineField({name: 'label', title: 'Label', type: 'string'}), defineField({name: 'url', title: 'URL', type: 'url'})]})]}),
+    defineField({name: 'budgetOptions', title: 'Inquiry budget options', type: 'array', group: 'contact', of: [defineArrayMember({type: 'string'})], initialValue: ['Below THB 5M', 'THB 5–10M', 'THB 10–20M', 'Above THB 20M', 'Flexible / Not specified']}),
+    defineField({name: 'seoTitle', title: 'SEO title', type: 'string', group: 'seo'}),
+    defineField({name: 'seoDescription', title: 'SEO description', type: 'text', rows: 3, group: 'seo'}),
+    defineField({name: 'ogImage', title: 'Social sharing image', type: 'image', group: 'seo'}),
+  ],
+  preview: {prepare: () => ({title: 'Website settings'})},
+})
