@@ -4,6 +4,8 @@
 
 import {useMemo, useState, type FormEvent} from 'react'
 import Link from 'next/link'
+import {ArrowIcon} from './ArrowIcon'
+import {ProjectHero} from './ProjectHero'
 import {PhamActivities} from './PhamActivities'
 import type {HomeContent, Project} from '@/lib/sanity/content'
 
@@ -28,16 +30,13 @@ type Inquiry = {
 export function SiteExperience({content, page = 'home', project: selected}: {content: HomeContent; page?: 'home' | 'projects' | 'about' | 'pham' | 'contact' | 'project'; project?: Project}) {
   const {settings, projects, activities, recognitions} = content
   const [menuOpen, setMenuOpen] = useState(false)
-  const [slide, setSlide] = useState(0)
   const filters = ['All', ...Array.from(new Set(projects.flatMap(p => p.typologies || [p.typology]))).sort()]
   const services = ['All', ...Array.from(new Set(projects.map(p => p.service).filter((s): s is string => Boolean(s)))).sort()]
   const [service, setService] = useState('All')
   const [filter, setFilter] = useState('All')
   const [inquiry, setInquiry] = useState<Inquiry | null>(null)
   const visible = useMemo(() => projects.filter(project => (filter === 'All' || (project.typologies || [project.typology]).includes(filter)) && (service === 'All' || project.service === service)), [filter, service, projects])
-  const featuredProjects = projects.filter(project => project.featured)
-  const homeProjects = featuredProjects.length ? featuredProjects : projects.slice(0, 4)
-  const heroProject = homeProjects[slide % Math.max(homeProjects.length, 1)]
+  const homeProjects = useMemo(() => {const featured = projects.filter(project => project.featured); return featured.length ? featured : projects.slice(0, 4)}, [projects])
 
   function submitInquiry(event: FormEvent<HTMLFormElement>) {
     event.preventDefault()
@@ -65,21 +64,8 @@ export function SiteExperience({content, page = 'home', project: selected}: {con
 
       <div id="page-content" tabIndex={-1} />
       {page === 'home' && <>
-      <section className="hero" id="top" aria-label="Featured architecture">
-        <figure className="hero-image" key={heroProject?._id}>
-          <img src={heroProject?.image || settings.heroImage} alt={heroProject?.imageAlt || 'Yangnar Studio architecture'} fetchPriority="high" />
-        </figure>
-        <div className="hero-copy">
-          <p className="eyebrow">{settings.heroEyebrow}</p>
-          <h1>{settings.heroTitle}</h1>
-        </div>
-        <div className="hero-bottom">
-          <Link className="hero-project" href={heroProject ? `/projects/${heroProject.slug}` : '/projects'}>{heroProject?.title}<span>{heroProject?.location} ↗</span></Link>
-          <div className="slide-controls"><button aria-label="Previous featured project" onClick={() => setSlide((slide + homeProjects.length - 1) % Math.max(homeProjects.length, 1))}>←</button><span aria-live="polite">{String(slide + 1).padStart(2, '0')} / {String(homeProjects.length).padStart(2, '0')}</span><button aria-label="Next featured project" onClick={() => setSlide((slide + 1) % Math.max(homeProjects.length, 1))}>→</button></div>
-          <a href="#works" className="scroll-cue">Explore projects ↓</a>
-        </div>
-      </section>
-      <section className="studio-intro section-pad"><p>Architecture.<br />Craft. Place.<br />Since 2011.</p><div><h2>{settings.heroIntro}</h2><Link className="text-link" href="/about">Discover our practice ↗</Link></div></section>
+      <ProjectHero projects={homeProjects} settings={settings} />
+      <section className="studio-intro section-pad"><p>Architecture.<br />Craft. Place.<br />Since 2011.</p><div><h2>{settings.heroIntro}</h2><Link className="text-link" href="/about">Discover our practice <ArrowIcon /></Link></div></section>
 
       </>}
       {(page === 'home' || page === 'projects') && <section className="works section-pad" id="works">
@@ -93,15 +79,14 @@ export function SiteExperience({content, page = 'home', project: selected}: {con
         </div></>}
         {!visible.length && page === 'projects' && <p>No projects match these filters.</p>}
         <div className="project-grid">
-          {(page === 'home' ? homeProjects : visible).map((project, index) => (
+          {(page === 'home' ? homeProjects : visible).map((project) => (
             <Link className="project-card" key={project._id} href={`/projects/${project.slug}`} aria-label={`View ${project.title}`}>
               <span className="project-image"><img src={project.image} alt={project.imageAlt || project.title} loading="lazy" /></span>
-              <span className="project-meta"><span>{String(index + 1).padStart(2, '0')}</span><span>{project.typology}</span><span>{project.completionLabel || project.year}</span></span>
-              <strong>{project.title}</strong><span className="location">{project.location}</span>
+              <span className="project-caption"><strong>{project.title}</strong><ArrowIcon /></span>
             </Link>
           ))}
         </div>
-        {page === 'home' && <Link className="text-link" href="/projects">View all projects ↗</Link>}
+        {page === 'home' && <Link className="text-link" href="/projects">View all projects <ArrowIcon /></Link>}
       </section>}
 
       {page === 'about' && <>
@@ -130,7 +115,7 @@ export function SiteExperience({content, page = 'home', project: selected}: {con
       {page === 'about' && <section className="awards section-pad" id="awards">
         <div className="section-heading"><p className="eyebrow">04 / Recognition</p><h2>Honours &<br /><em>archives</em></h2><p>A record of shared work—with clients, builders, communities and the wider architectural culture.</p></div>
         <div className="recognition-list">
-          {recognitions.map((item) => <a key={item._id} href={item.url || undefined} target={item.url ? '_blank' : undefined} rel="noreferrer"><span className="recognition-year">{item.year || '—'}</span><strong>{item.title}</strong><span>{item.source}</span><span>{item.kind} {item.url && '↗'}</span></a>)}
+          {recognitions.map((item) => <a key={item._id} href={item.url || undefined} target={item.url ? '_blank' : undefined} rel="noreferrer"><span className="recognition-year">{item.year || '—'}</span><strong>{item.title}</strong><span>{item.source}</span><span>{item.kind} {item.url && <ArrowIcon />}</span></a>)}
           <div className="profile-publications">{settings.publications?.map((publication) => <figure key={publication.title}><img src={publication.image} alt={publication.title} loading="lazy" /><figcaption>{publication.title}</figcaption></figure>)}</div>
         </div>
       </section>}
@@ -150,13 +135,13 @@ export function SiteExperience({content, page = 'home', project: selected}: {con
             <label>Budget range<select name="budget_range" required defaultValue=""><option value="" disabled>Select range</option>{settings.budgetOptions.map((option) => <option key={option}>{option}</option>)}</select></label>
             <label>Timeline<select name="timeline" required defaultValue=""><option value="" disabled>Select timing</option><option>Immediate — under 3 months</option><option>Planning — 3 to 12 months</option><option>Future — over 1 year</option></select></label>
             <label className="full">Project notes<textarea name="project_notes" rows={4} /></label>
-            <button className="submit" type="submit">Prepare inquiry <span>↗</span></button>
+            <button className="submit" type="submit">Prepare inquiry <span><ArrowIcon /></span></button>
           </form>}
         </div>
       </section>}
 
-      {page === 'project' && selected && <article className="project-detail"><div className="project-breadcrumb"><Link href="/projects">← All projects</Link></div><div className="modal-media"><img src={selected.image} alt={selected.imageAlt || selected.title} /></div><div className="modal-copy"><p className="eyebrow">{selected.typology}{selected.completionLabel || selected.year ? ` · ${selected.completionLabel || selected.year}` : ""}</p><h1 id="project-title">{selected.title}</h1><p className="modal-lede">{selected.description || selected.summary}</p><dl className="project-specs">{selected.service && <div><dt>Service</dt><dd>{selected.service}</dd></div>}{selected.owner && <div><dt>Owner</dt><dd>{selected.owner}</dd></div>}{selected.designCredit && <div><dt>Design</dt><dd>{selected.designCredit}</dd></div>}<div><dt>Location</dt><dd>{selected.location}</dd></div><div><dt>Size</dt><dd>{selected.area || '—'}</dd></div><div><dt>Status</dt><dd>{selected.status || '—'}</dd></div></dl><div className="material-tags">{selected.materials?.map((material) => <span key={material}>{material}</span>)}</div>{selected.awardText && <p className="award-note">{selected.awardText}</p>}{selected.awards?.map((award) => <p className="award-note" key={award._id}>Award · {award.title}</p>)}{selected.pressUrl && <a className="text-link" href={selected.pressUrl} target="_blank" rel="noreferrer">Read project feature <span>↗</span></a>}</div>{!!selected.gallery?.length && <div className="project-gallery" aria-label="Project photographs">{selected.gallery.map((photo, index) => <figure key={`${photo.url}-${index}`}><img src={photo.url} {...imageDimensions(photo.url)} alt={photo.alt || `${selected.title} — photograph ${index + 2}`} loading="lazy" decoding="async" />{photo.caption && <figcaption>{photo.caption}</figcaption>}</figure>)}</div>}</article>}
-      <footer><div><strong>Yangnar Studio</strong><span>Architecture · Craft · Place</span></div><div>{settings.socialLinks.map((link) => <a key={link.label} href={link.url} target="_blank" rel="noreferrer">{link.label} ↗</a>)}</div><div><span>Chiang Mai, Thailand</span><span>© {new Date().getFullYear()}</span></div></footer>
+      {page === 'project' && selected && <article className="project-detail"><div className="project-breadcrumb"><Link href="/projects"><ArrowIcon direction="left" /> All projects</Link></div><div className="modal-media"><img src={selected.image} alt={selected.imageAlt || selected.title} /></div><div className="modal-copy"><p className="eyebrow">{selected.typology}{selected.completionLabel || selected.year ? ` · ${selected.completionLabel || selected.year}` : ""}</p><h1 id="project-title">{selected.title}</h1><p className="modal-lede">{selected.description || selected.summary}</p><dl className="project-specs">{selected.service && <div><dt>Service</dt><dd>{selected.service}</dd></div>}{selected.owner && <div><dt>Owner</dt><dd>{selected.owner}</dd></div>}{selected.designCredit && <div><dt>Design</dt><dd>{selected.designCredit}</dd></div>}<div><dt>Location</dt><dd>{selected.location}</dd></div><div><dt>Size</dt><dd>{selected.area || '—'}</dd></div><div><dt>Status</dt><dd>{selected.status || '—'}</dd></div></dl><div className="material-tags">{selected.materials?.map((material) => <span key={material}>{material}</span>)}</div>{selected.awardText && <p className="award-note">{selected.awardText}</p>}{selected.awards?.map((award) => <p className="award-note" key={award._id}>Award · {award.title}</p>)}{selected.pressUrl && <a className="text-link" href={selected.pressUrl} target="_blank" rel="noreferrer">Read project feature <span><ArrowIcon /></span></a>}</div>{!!selected.gallery?.length && <div className="project-gallery" aria-label="Project photographs">{selected.gallery.map((photo, index) => <figure key={`${photo.url}-${index}`}><img src={photo.url} {...imageDimensions(photo.url)} alt={photo.alt || `${selected.title} — photograph ${index + 2}`} loading="lazy" decoding="async" />{photo.caption && <figcaption>{photo.caption}</figcaption>}</figure>)}</div>}</article>}
+      <footer><div><strong>Yangnar Studio</strong><span>Architecture · Craft · Place</span></div><div>{settings.socialLinks.map((link) => <a key={link.label} href={link.url} target="_blank" rel="noreferrer">{link.label} <ArrowIcon /></a>)}</div><div><span>Chiang Mai, Thailand</span><span>© {new Date().getFullYear()}</span></div></footer>
 
 
     </main>

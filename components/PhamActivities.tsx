@@ -1,3 +1,4 @@
+import {ArrowIcon} from './ArrowIcon'
 /* eslint-disable @next/next/no-img-element */
 import {PortableText} from 'next-sanity'
 import type {Activity} from '@/lib/sanity/content'
@@ -17,11 +18,11 @@ function ActivityStory({activity}: {activity: Activity}) {
   {(activity.image || !!activity.gallery?.length) && <div className="activity-poster">{activity.image && <img src={activity.image} alt={activity.imageAlt || activity.title} />}<div className="activity-gallery">{activity.gallery?.slice(0,2).map(photo=><figure key={photo.url}><img src={photo.url} alt={photo.alt || activity.title} loading="lazy" />{photo.caption && <figcaption>{photo.caption}</figcaption>}</figure>)}</div></div>}
   <div className="activity-copy"><p className="eyebrow">{activity.registrationStatus || 'Activity'}</p><h2>{activity.title}</h2><p>{activity.summary}</p><dl className="project-specs">
    {activity.date && <div><dt>Date</dt><dd>{activity.date}{activity.endDate && activity.endDate !== activity.date ? ` – ${activity.endDate}` : ""}</dd></div>}{activity.time && <div><dt>Time</dt><dd>{activity.time}</dd></div>}
-   <div><dt>Location</dt><dd>{activity.location}{activity.mapUrl && <> · <a href={activity.mapUrl} target="_blank" rel="noreferrer">Map ↗</a></>}</dd></div>
+   <div><dt>Location</dt><dd>{activity.location}{activity.mapUrl && <> · <a href={activity.mapUrl} target="_blank" rel="noreferrer">Map <ArrowIcon /></a></>}</dd></div>
    {activity.price != null && <div><dt>Fee</dt><dd>THB {activity.price.toLocaleString('en-US')} / person{activity.discount && <small>{activity.discount}</small>}</dd></div>}
    {activity.minimumAge != null && <div><dt>Age</dt><dd>{activity.minimumAge}+</dd></div>}{activity.capacity != null && <div><dt>Capacity</dt><dd>{activity.capacity} participants</dd></div>}
   </dl><div className="activity-body">{activity.details?.length ? <PortableText value={activity.details}/> : <p>{activity.body}</p>}</div>
-  {activity.registrationStatus === 'Open' && activity.registrationUrl && <a className="text-link" href={activity.registrationUrl} target="_blank" rel="noreferrer">Register for this workshop ↗</a>}
+  {activity.registrationStatus === 'Open' && activity.registrationUrl && <a className="text-link" href={activity.registrationUrl} target="_blank" rel="noreferrer">Register for this workshop <ArrowIcon /></a>}
   {activity.registrationStatus === 'Past event' && <p className="activity-status">This workshop has ended. Contact the studio about future activities.</p>}
   {activity.contactPhone && <a className="text-link" href={`tel:${activity.contactPhone}`}>Contact · {activity.contactPhone}</a>}
   </div></article>
