@@ -53,11 +53,7 @@
     "sourceFolder": "https://drive.google.com/drive/folders/15iUbIt-yI4c6jupeyywbX2WEwF-A80sD?usp=share_link",
     "originalCount": 34,
     "coverFileId": "18CfBgEc2_hYhcZdTdCrXjBbn5BUll29e",
-    "excludedFileIds": [
-      "1nisCVkpVtQCq903GuR2_0wAfx7bN-D8d",
-      "133RRPXC09YLuvWMQ7FdQEV1rtDOXxUgz",
-      "1tADvY88F-xLoCwgij44JZ_z-Prl6wkig"
-    ]
+    "excludedFileIds": []
   },
   {
     "project": "Ing Suk House",
@@ -113,9 +109,7 @@
     "sourceFolder": "https://drive.google.com/drive/folders/1Z7crLV_1KmaTrKTvw6PsFkjHvs1R6yQL?usp=drive_link",
     "originalCount": 14,
     "coverFileId": "1DBH05VVoXcHGJkMoZt35kD9qzUvVguEg",
-    "excludedFileIds": [
-      "1DMcpH7en4jtYssAM3xgGLQGbco4tTsSx"
-    ]
+    "excludedFileIds": []
   },
   {
     "project": "Raintree Lane Farm House",
@@ -178,18 +172,6 @@
     "sourceFolder": "https://drive.google.com/drive/folders/1UYANlX7HrzbigwKPTKLpIeTslkWEhvgr",
     "originalCount": 32,
     "coverFileId": "11tWcGhhvaiGT9OayXq7H4g7CbJ7aZJXx",
-    "excludedFileIds": [
-      "1ea1ZsGB0NkNHo433aAD55hLX57hm3ewf",
-      "1ZbQnSrSHj91k6r4bLIw0v8uSwpnnGzu7",
-      "1NxmJzKls5VkSoKjsXNaiiDa03r7A0bCi",
-      "19bf_fOZoVoSszuLLOZK5OHNtc4bXMrh-",
-      "1MsmnnIiMQMRJ-yFv73ExnrXLeqegllT_",
-      "1-U2ns5j2a1wFbw2ideMjfArqEdJkucNo",
-      "1UumNKLdVszevLV9CwcflQb4wzICZqgQJ",
-      "1Dy-owZcG8YJkC7l2S_O9YDOrcYx2C4J1",
-      "1HiwsUGHTjpDoaKIkOBSY8nBP_9h30j35",
-      "1s6dQrs0OAq-z-EfEAspTqYx_ilqG6fIV",
-      "1pUpkqBNDj7vMyLJLpMv9V4v2KIrRUlvn"
-    ]
+    "excludedFileIds": []
   }
 ]
