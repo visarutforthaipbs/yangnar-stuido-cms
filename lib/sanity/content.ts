@@ -6,6 +6,13 @@ export type Project = {
   title: string
   slug: string
   year?: number
+  featured?: boolean
+  service?: string
+  typologies?: string[]
+  owner?: string
+  designCredit?: string
+  completionLabel?: string
+  awardText?: string
   typology: string
   location: string
   area?: string

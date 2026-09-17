@@ -1,0 +1,1232 @@
+[
+  {
+    "_id": "project-sala-suan-tham",
+    "_type": "project",
+    "title": "Sala Suan Tham",
+    "slug": {
+      "_type": "slug",
+      "current": "sala-suan-tham"
+    },
+    "readyToPublish": true,
+    "featured": true,
+    "sourceNumber": 1,
+    "order": 1,
+    "service": "Pavilion",
+    "typologies": [
+      "Residential"
+    ],
+    "owner": "Thanonchai Sornsriwichai",
+    "designCredit": null,
+    "year": 2016,
+    "completionLabel": "2016",
+    "status": "Completed",
+    "location": "On Nut 51, Suan Luang, Bangkok",
+    "area": "85 sq.m.",
+    "materials": [
+      "Bamboo",
+      "Reclaim wood"
+    ],
+    "summary": "This project marks the first collaboration between the architect and the homeowner (P'Tor) at Ban Suan Tham in Soi On Nut, initially commissioned to build a demountable storage pavilion that will eventually be relocated to Nakhon Nayok",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "This project marks the first collaboration between the architect and the homeowner (P'Tor) at Ban Suan Tham in Soi On Nut, initially commissioned to build a demountable storage pavilion that will eventually be relocated to Nakhon Nayok. Recommended by Ajarn Prof Chulaporn Nantapanich, the project is constructed entirely for disassembly, using salvaged timber from an old Likay (Thai folk opera) theater, local river rocks as pillar foundations instead of concrete, and a dense thatch roof inspired by Samut Songkhram salt granaries. Built by northern craftsmen from Yangnar Studio, the hybrid structure combines traditional Ruen Khruang Sap (joined timber) and Ruen Khruang Phuk (bound bamboo) techniques, blending vernacular utility with refined craftsmanship, controlled natural light, and raw, weathered textures."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1HzFCzsv9hRSJWesM9T3fROsjV_OMWI3l?usp=share_link"
+  },
+  {
+    "_id": "project-studio-yangnar-i",
+    "_type": "project",
+    "title": "Studio Yangnar I",
+    "slug": {
+      "_type": "slug",
+      "current": "studio-yangnar-i"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 2,
+    "order": 2,
+    "service": "Pavilion",
+    "typologies": [
+      "Office"
+    ],
+    "owner": "Yangnar Studio",
+    "designCredit": null,
+    "year": 2018,
+    "completionLabel": "2018",
+    "status": "Completed",
+    "location": "San Kamphaeng, Chiang Mai",
+    "area": "65 sq.m.",
+    "materials": [
+      "Reclaim wood",
+      "Bamboo"
+    ],
+    "summary": "Studio Yangnar I is a semi-outdoor design and construction planning studio built largely from natural and reclaimed materials",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Studio Yangnar I is a semi-outdoor design and construction planning studio built largely from natural and reclaimed materials. The interior raised wooden flooring is elevated above a surrounding untreated bamboo deck to protect against rain. Its architectural details adapt traditional Karen vernacular practices, combining a primary bamboo structure with a hardwood frame secured through wood wedges and simple bamboo strip ties."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1Y5rwH2x0i8n7DsZFkBBzdP5g2X5w8fNG?usp=share_link"
+  },
+  {
+    "_id": "project-noi-house",
+    "_type": "project",
+    "title": "Noi House",
+    "slug": {
+      "_type": "slug",
+      "current": "noi-house"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 3,
+    "order": 3,
+    "service": "Architect",
+    "typologies": [
+      "Residential"
+    ],
+    "owner": "Dechophon Rattanasatchatham",
+    "designCredit": null,
+    "year": 2018,
+    "completionLabel": "2018",
+    "status": "Completed",
+    "location": "San Kamphaeng, Chiang Mai",
+    "area": "75 sq.m.",
+    "materials": [
+      "Reclaim wood",
+      "Concrete",
+      "Bamboo"
+    ],
+    "summary": "Noi House is a compact, 75-square-meter residence designed to maximize multi-functional living spaces on a tight budget",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Noi House is a compact, 75-square-meter residence designed to maximize multi-functional living spaces on a tight budget. To keep costs down while optimizing utility, the design makes full use of affordable and locally sourced materials, including small reclaimed wood pieces, low-cost concrete blocks, and bamboo harvested from the surrounding area."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1liYNJkmSJdjF262SLUrta59qwa1R8GWH?usp=share_link"
+  },
+  {
+    "_id": "project-inthanon-walkway",
+    "_type": "project",
+    "title": "Inthanon Walkway",
+    "slug": {
+      "_type": "slug",
+      "current": "inthanon-walkway"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 4,
+    "order": 4,
+    "service": "Landscape",
+    "typologies": [
+      "Civic / Public"
+    ],
+    "owner": "Doi Inthanon National Park",
+    "designCredit": "Northforest Studio",
+    "year": 2018,
+    "completionLabel": "2018",
+    "status": "Completed",
+    "location": "Chom Thong, Chiang Mai",
+    "area": "150 m walkway",
+    "materials": [
+      "Reclaim wood"
+    ],
+    "summary": "Initiated by the Thai Rak Pa Foundation and Doi Inthanon National Park, this project repaired the 150-meter walkway leading to Thailand's highest peak, designed by Ajarn Chulaporn Nantapanich and constructed by Yangnar Studio",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Initiated by the Thai Rak Pa Foundation and Doi Inthanon National Park, this project repaired the 150-meter walkway leading to Thailand's highest peak, designed by Ajarn Chulaporn Nantapanich and constructed by Yangnar Studio. Working under strict conservation limits—allowing only a 50 cm clearance alongside the 1.5-meter-wide path—the team faced extreme high-altitude weather, daily rain, persistent tourist traffic, and biting gnats. Timber components were pre-cut below the mountain, including hand-axed teak posts, teak decking and handrails, and hardwood support beams. Completed over four months in 2018, the project now serves as a design model for future national park boardwalks."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1Rq0oLZ1JMjh4mhNHH_YDcRpEWmUHaxQr?usp=share_link"
+  },
+  {
+    "_id": "project-kha-nam-noi",
+    "_type": "project",
+    "title": "Ka Nam Noi House",
+    "slug": {
+      "_type": "slug",
+      "current": "kha-nam-noi"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 5,
+    "order": 5,
+    "service": "Architect",
+    "typologies": [
+      "Residential"
+    ],
+    "owner": "Parndej Boondej - Rung Tangtatarakul",
+    "designCredit": null,
+    "year": 2019,
+    "completionLabel": "2019",
+    "status": "Completed",
+    "location": "In Buri, Sing Buri",
+    "area": "148 sq.m.",
+    "materials": [
+      "Reclaim wood",
+      "Steel",
+      "Concrete"
+    ],
+    "summary": "Baan Kanam Noi is a temporary residence designed to integrate seamlessly within a former pigsty while minimizing environmental impact",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Baan Kanam Noi is a temporary residence designed to integrate seamlessly within a former pigsty while minimizing environmental impact. Built with raw, uncoated natural materials and reusing original structural constraints, the home features three offset functional modules—a kitchen, living room, and bedroom—positioned to maximize natural light and airflow. Its internal spaces connect smoothly to the outdoors via corridors, sliding corrugated zinc doors, and terraces that link to a plant nursery, an outdoor garden bathroom, and a dog training field."
+          }
+        ]
+      }
+    ],
+    "awardText": "Baan lae Suan Awards 23 : 10 Houses of the Year",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1izzPgwwesXAtIKxBjEfW7-BuFIbLw_rD?usp=share_link"
+  },
+  {
+    "_id": "project-villa-sanlomjoy",
+    "_type": "project",
+    "title": "Villa Sanlomjoy",
+    "slug": {
+      "_type": "slug",
+      "current": "villa-sanlomjoy"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 6,
+    "order": 6,
+    "service": "Architect",
+    "typologies": [
+      "Residential"
+    ],
+    "owner": "Arunwan Chamnanprai - Wanassanun Aroonchote",
+    "designCredit": null,
+    "year": 2019,
+    "completionLabel": "2019",
+    "status": "Completed",
+    "location": "Mueang Chiang Mai, Chiang Mai",
+    "area": "280 sq.m.",
+    "materials": [
+      "Reclaim materials",
+      "Concrete"
+    ],
+    "summary": "The core design concept draws inspiration from the traditional Ruen Pae (shophouse architecture) historically found in areas like Wat Ket, featuring gable eaves aligned parallel to the street to suit long, rectangular plots",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "The core design concept draws inspiration from the traditional Ruen Pae (shophouse architecture) historically found in areas like Wat Ket, featuring gable eaves aligned parallel to the street to suit long, rectangular plots. The design incorporates a central courtyard separating the front and rear buildings—a spatial concept adapted from traditional Chinese shophouses in Songkhla. Additionally, influenced by the homeowner's appreciation for Sri Lankan architect Geoffrey Bawa, the house blends Asian vernacular forms with tropical modern sensibilities."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1ZI8jWTBlNHeHmFItabR9FVgW3xstgKTm?usp=drive_link"
+  },
+  {
+    "_id": "project-adobe-house",
+    "_type": "project",
+    "title": "Adobe House",
+    "slug": {
+      "_type": "slug",
+      "current": "adobe-house"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 7,
+    "order": 7,
+    "service": "Architect",
+    "typologies": [
+      "Residential"
+    ],
+    "owner": "Pratheep Wongkulanit",
+    "designCredit": null,
+    "year": 2020,
+    "completionLabel": "2020",
+    "status": "Completed",
+    "location": "Pua, Nan",
+    "area": "157 sq.m.",
+    "materials": [
+      "Brick, Clay",
+      "Reclaim wood",
+      "Bamboo"
+    ],
+    "summary": "This adobe house project draws inspiration from traditional Tai Khuen earthen villages in Kengtung, Myanmar, visited by the architect and homeowner",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "This adobe house project draws inspiration from traditional Tai Khuen earthen villages in Kengtung, Myanmar, visited by the architect and homeowner. Designed to embrace natural thermal regulation—keeping interiors cool in summer and warm in winter—the architecture emphasizes simple, non-industrialized techniques without heavy machinery or chemical coatings. Reflecting vernacular practices, such as storing harvests in darkened ground floors and hand-firing roof tiles from rice paddy topsoil, the house embodies an understanding that natural earthen materials are meant to age gracefully and deteriorate over time."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1dg61hE5rDHxs1F0LLCnLaFDMbe7XDRpS?usp=sharing"
+  },
+  {
+    "_id": "project-baan-tita",
+    "_type": "project",
+    "title": "Tita House",
+    "slug": {
+      "_type": "slug",
+      "current": "baan-tita"
+    },
+    "readyToPublish": true,
+    "featured": true,
+    "sourceNumber": 8,
+    "order": 8,
+    "service": "Architect",
+    "typologies": [
+      "Residential"
+    ],
+    "owner": "Dechophon Rattanasatchatham",
+    "designCredit": null,
+    "year": 2021,
+    "completionLabel": "2021",
+    "status": "Completed",
+    "location": "San Kamphaeng, Chiang Mai",
+    "area": "150 sq.m.",
+    "materials": [
+      "Reclaim wood"
+    ],
+    "summary": "Baan Tita reflects an architectural design shaped by direct living experience, blending local wisdom and craftsmanship to promote sustainable living within its natural context",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Baan Tita reflects an architectural design shaped by direct living experience, blending local wisdom and craftsmanship to promote sustainable living within its natural context. The home features a three-tier split-level layout—starting from a clay-brick entrance hall, stepping up via wooden stairs to a central deck and traditional Toen (raised terrace) linked to the kitchen, and topping out at two bedrooms connected to a workspace and a south-facing bathroom. Its varied floor elevations create practical under-croft (tai-tun) spaces beneath, ranging from low storage areas for farm produce to high-ceiling spaces used for woodworking and daytime relaxation."
+          }
+        ]
+      }
+    ],
+    "awardText": "Baan lae Suan Awards 23 : 10 Houses of the Year",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/15iUbIt-yI4c6jupeyywbX2WEwF-A80sD?usp=share_link"
+  },
+  {
+    "_id": "project-yong-house",
+    "_type": "project",
+    "title": "Yong House",
+    "slug": {
+      "_type": "slug",
+      "current": "yong-house"
+    },
+    "readyToPublish": true,
+    "featured": true,
+    "sourceNumber": 9,
+    "order": 9,
+    "service": "Renovation",
+    "typologies": [
+      "Heritage",
+      "Residential"
+    ],
+    "owner": "Nipatpan Nutavej - Kamolphan Nutavej",
+    "designCredit": null,
+    "year": 2021,
+    "completionLabel": "2021",
+    "status": "Completed",
+    "location": "Hang Dong, Chiang Mai",
+    "area": "300 sq.m.",
+    "materials": [
+      "Reclaim wood",
+      "Brick, Clay"
+    ],
+    "summary": "Yong house is a 105-year-old traditional Lanna-style house relocated from Pa Sang District, Lamphun, to Hang Dong District, Chiang Mai",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Yong house is a 105-year-old traditional Lanna-style house relocated from Pa Sang District, Lamphun, to Hang Dong District, Chiang Mai. Serving as a second home for a Bangkok-based owner, the reconstruction presented unique challenges due to a lack of original architectural drawings, requiring the team to reverse-engineer the structure from photos. When modern clay tiles added unexpected weight and caused the roof frame to sag, the architects inserted an internal truss system to reinforce the roof without disturbing the lower structure. The team adapted the building's proportions by adding raised footings to replace decayed pillar bases, integrating an adjacent granary (lhong khao) into a new bedroom via a connecting terrace, and preserving historical integrity through salvaged materials, regional clay tiles, exposed wiring, and vintage switches."
+          }
+        ]
+      }
+    ],
+    "awardText": "HRH PRINCESS MAHA CHAKRI SIRINDHORN GRANTED : ASA DESIGN AWARD OF THE YEAR 2024 Award of Merit\nCategory A: Architectural Heritage Conservation",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1UYANlX7HrzbigwKPTKLpIeTslkWEhvgr"
+  },
+  {
+    "_id": "project-ing-suk-house",
+    "_type": "project",
+    "title": "Ing Suk House",
+    "slug": {
+      "_type": "slug",
+      "current": "ing-suk-house"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 10,
+    "order": 10,
+    "service": "Architect",
+    "typologies": [
+      "Residential",
+      "Hospitality"
+    ],
+    "owner": "Warit Wanla-Or - Mookda Wanla-Or",
+    "designCredit": null,
+    "year": 2022,
+    "completionLabel": "2022",
+    "status": "Completed",
+    "location": "Hang Dong, Chiang Mai",
+    "area": "50 sq.m.",
+    "materials": [
+      "Reclaim wood",
+      "Steel",
+      "Concrete"
+    ],
+    "summary": "The structure relies on fundamental construction techniques and raw, natural materials",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "The structure relies on fundamental construction techniques and raw, natural materials. Uncoated reclaimed timber is left to age naturally, while locally hand-split Pai Sang Mon bamboo forms door and window panels alongside reused wooden doors. Standard local materials—such as concrete blocks and roofing tiles—were chosen to minimize transport and future repair costs. Recycled steel from scrap yards was repurposed for structural roof posts, handrails, light fixtures, and bathroom drainage, complemented by second-hand furniture from Nong Ho Market. Additionally, a traditional log ladder, carved with an axe in the style of vernacular Lao and Vietnamese homes, steps down to the earthen courtyard anchored on river stones from the site's boundary stream."
+          }
+        ]
+      }
+    ],
+    "awardText": "HRH PRINCESS MAHA CHAKRI SIRINDHORN GRANTED : ASA DESIGN AWARD OF THE YEAR 2024 GOLD MEDAL\nCategory Small Architecture",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1XZGE36Z8nFCHMwvbHHwoy2qD_qwQBRaB?usp=share_link"
+  },
+  {
+    "_id": "project-studio-yangnar-ii",
+    "_type": "project",
+    "title": "Studio Yangnar II",
+    "slug": {
+      "_type": "slug",
+      "current": "studio-yangnar-ii"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 11,
+    "order": 11,
+    "service": "Architect",
+    "typologies": [
+      "Office"
+    ],
+    "owner": "Yangnar Studio",
+    "designCredit": null,
+    "year": 2022,
+    "completionLabel": "2022",
+    "status": "Completed",
+    "location": "San Kamphaeng, Chiang Mai",
+    "area": "70 sq.m.",
+    "materials": [
+      "Reclaim wood",
+      "Concrete"
+    ],
+    "summary": "This office structure utilizes pre-existing concrete footings with timber columns extended upward to accommodate future two-story expansion, complete with a flat ceiling hiding structural joists prepared for the upper level",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "This office structure utilizes pre-existing concrete footings with timber columns extended upward to accommodate future two-story expansion, complete with a flat ceiling hiding structural joists prepared for the upper level. Inside, the layout separates junior and senior staff zones with a planned rear meeting room. Initially fitted with glass louver windows and a metal sheet awning (which replaced a sunshade net), glare issues led the team to introduce interchangeable wooden louver slats and a bamboo overlay—crafted from leftover fence bamboo—on the metal roof to reduce heat, rain noise, and sunlight reflections. Demonstrating adaptive functional design, the corner of the eaves was clipped to grant passage to timber delivery trucks after the workshop shifted deeper into the site."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1IMvY6tENGGzXSsjIxJGrs66tsEpsKb0B?usp=drive_link"
+  },
+  {
+    "_id": "project-thingamajiggy",
+    "_type": "project",
+    "title": "Thingamajiggy",
+    "slug": {
+      "_type": "slug",
+      "current": "thingamajiggy"
+    },
+    "readyToPublish": true,
+    "featured": true,
+    "sourceNumber": 12,
+    "order": 12,
+    "service": "Architect",
+    "typologies": [
+      "Commercial"
+    ],
+    "owner": "Doungporn Siri-isra - Kit Siri-isra",
+    "designCredit": null,
+    "year": 2023,
+    "completionLabel": "2023",
+    "status": "Completed",
+    "location": "Mae Rim, Chiang Mai",
+    "area": "21 sq.m.",
+    "materials": [
+      "Reclaim wood",
+      "Concrete",
+      "Bamboo",
+      "Brick, Clay"
+    ],
+    "summary": "Located in Huai Sai, Mae Rim, Chiang Mai, Thingamajiggy is a coffee shop conceived as an \"ever-evolving architecture\" designed to transform alongside its surrounding rice fields, western mountain ranges, and growing shade trees",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Located in Huai Sai, Mae Rim, Chiang Mai, Thingamajiggy is a coffee shop conceived as an \"ever-evolving architecture\" designed to transform alongside its surrounding rice fields, western mountain ranges, and growing shade trees. Embracing natural material lifespans without artificial chemical preservation, Yangnar Studio built a simple bamboo pavilion using traditional tools (knives, drills, and Chiang Mai axes). The structure features untreated Pai Sang Mon bamboo poles driven into the ground with plastic-wrapped footings, bound using fishing net twine tied by Lisu craftsmen, and topped with agricultural shade netting. Serving as an open, boundary-less interspace between two small buildings, it invites visitors to engage with seasonal outdoor elements while waiting for the planted trees to mature."
+          }
+        ]
+      }
+    ],
+    "awardText": "HRH PRINCESS MAHA CHAKRI SIRINDHORN GRANTED : ASA DESIGN AWARD OF THE YEAR 2024 GOLD MEDAL\r\nCategory Small Architecture",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1lK7JN-sD2xk35wli6Tx-GO7a0t9FHzSN?usp=share_link"
+  },
+  {
+    "_id": "project-jinni-organic-home-garden",
+    "_type": "project",
+    "title": "Jinni Organic Home Garden",
+    "slug": {
+      "_type": "slug",
+      "current": "jinni-organic-home-garden"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 13,
+    "order": 13,
+    "service": "Architect",
+    "typologies": [
+      "Residential"
+    ],
+    "owner": "Weerasak Boonvorametee",
+    "designCredit": null,
+    "year": 2023,
+    "completionLabel": "2023",
+    "status": "Completed",
+    "location": "Bangkae, Bangkok",
+    "area": "130 sq.m.",
+    "materials": [
+      "Reclaim wood",
+      "Concrete"
+    ],
+    "summary": "This retirement home was designed around a clear desire to live in harmony with nature, accommodating a homeowner dedicated to organic farming",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "This retirement home was designed around a clear desire to live in harmony with nature, accommodating a homeowner dedicated to organic farming. Transitioning from a concrete house lacking green space, the design features a modest, low-set timber structure that avoids high staircases for ease of access in older age. The minimal layout includes only essential living functions—a bedroom, storage, and a sitting nook—alongside a spacious multi-purpose area for gardening equipment, resembling an expanded garden shed that blends into the surrounding landscape."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1mFadNb1ffL6bJW6juaK6d3W9wcjIXDPj?usp=drive_link"
+  },
+  {
+    "_id": "project-sala-klong-5",
+    "_type": "project",
+    "title": "Sala Klong 5",
+    "slug": {
+      "_type": "slug",
+      "current": "sala-klong-5"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 14,
+    "order": 14,
+    "service": "Architect",
+    "typologies": [
+      "Residential"
+    ],
+    "owner": "Touch Kasemsittichoke",
+    "designCredit": null,
+    "year": 2023,
+    "completionLabel": "2023",
+    "status": "Completed",
+    "location": "Khlong Luang, Pathum Thani",
+    "area": "90.5 sq.m.",
+    "materials": [
+      "Brick, Clay",
+      "Reclaim wood"
+    ],
+    "summary": "Designed around the concept of a farmer's residence, the project features a shaded ground-floor undercroft (tai-tun) for daytime rest during outdoor labor",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Designed around the concept of a farmer's residence, the project features a shaded ground-floor undercroft (tai-tun) for daytime rest during outdoor labor. The residence consists of two structures: a single-story pavilion housing a study and sitting area, and a main two-story building with a bedroom, living space, and kitchen upstairs over an open ground level. To handle the complex timber framing, new lumber was custom-milled and pre-fitted—including mortise joints for beams, wall plates, and rafters—over two weeks. The entire structure was pre-assembled on the ground to verify measurements before being raised frame by frame for high accuracy."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1vPtBSiq_Wh-X1eIu6La0dcioIgqlIYFg?usp=drive_link"
+  },
+  {
+    "_id": "project-asa-pavillion",
+    "_type": "project",
+    "title": "ASA Pavillion",
+    "slug": {
+      "_type": "slug",
+      "current": "asa-pavillion"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 15,
+    "order": 15,
+    "service": "Pavilion",
+    "typologies": [
+      "Civic / Public",
+      "Culture"
+    ],
+    "owner": "The Association of Siamese Architects under Royal Patronage (Lanna)",
+    "designCredit": null,
+    "year": 2023,
+    "completionLabel": "2023",
+    "status": "Completed",
+    "location": "Rama IX Lanna Park, Mueang, Chiang Mai",
+    "area": "100 sq.m.",
+    "materials": [
+      "Bamboo"
+    ],
+    "summary": "Inspired by a trekking trip to Baan Kor Kuang in Nan—where local farmers bound clearing-debris with local vines (khreua din) to create cattle fences—this temporary, zero-waste pavilion was created for an exhibit at Suan Luang Rama IX Par…",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Inspired by a trekking trip to Baan Kor Kuang in Nan—where local farmers bound clearing-debris with local vines (khreua din) to create cattle fences—this temporary, zero-waste pavilion was created for an exhibit at Suan Luang Rama IX Park in Chiang Mai. Built entirely from straight, unbent bamboo (Pai Sang Mon and Pai Luak Dam), the project emphasized temporary architecture that leaves the site undamaged. Designed through collaborative hands-on labor, Lisu craftsmen taught architects, engineers, and interns how to bind split-bamboo facades using 400 locally sourced khreua din vines, generating income for the Nan community while reflecting the raw, living craftsmanship of the team."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1MZvFsvPD38qu3Wlmj_0G1y7qPNFTkZvf?usp=drive_link"
+  },
+  {
+    "_id": "project-sala-yangnar",
+    "_type": "project",
+    "title": "Sala Yangnar",
+    "slug": {
+      "_type": "slug",
+      "current": "sala-yangnar"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 16,
+    "order": 16,
+    "service": "Pavilion",
+    "typologies": [
+      "Residential"
+    ],
+    "owner": "Yangnar Studio",
+    "designCredit": null,
+    "year": 2023,
+    "completionLabel": "2023",
+    "status": "Completed",
+    "location": "San Kamphaeng, Chiang Mai",
+    "area": "55 sq.m.",
+    "materials": [
+      "Reclaim wood"
+    ],
+    "summary": "Functioning as the central hub of Yangnar Studio, this multipurpose pavilion serves as a client reception area, meeting space, staff canteen, and evening lounge",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Functioning as the central hub of Yangnar Studio, this multipurpose pavilion serves as a client reception area, meeting space, staff canteen, and evening lounge. Beyond its daily utility, the structure acts as a full-scale mockup where clients can directly experience timber textures, joinery, exposed electrical wiring, and structural details. While appearing simple at first glance, its unique vernacular engineering utilizes lowered crossbeams (khue) that extend outward to function like bracket arms (khaen nang), nearly doubling the eaves' overhang without complex added framing and creating an intimate, low-profile scale. The layout features a southern utility and meeting screen wall with a hidden pantry, alongside an eastern sun-lit terrace adapted for working, model making, or lounging in the morning sun."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/18TpqDZ7ss09okMS2EFZpW2uep2Ub8PbE?usp=drive_link"
+  },
+  {
+    "_id": "project-tham-tham-pai-garden",
+    "_type": "project",
+    "title": "Tham-Tham Pai Garden",
+    "slug": {
+      "_type": "slug",
+      "current": "tham-tham-pai-garden"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 17,
+    "order": 17,
+    "service": "Landscape",
+    "typologies": [
+      "Nature / Recreation"
+    ],
+    "owner": "Suratun Kongton",
+    "designCredit": null,
+    "year": 2023,
+    "completionLabel": "2023 - Present",
+    "status": "In progress",
+    "location": "Mae on, Chiang Mai",
+    "area": "22,400 sq.m.",
+    "materials": [],
+    "summary": "This 14-rai (around 5.5 acres) terraced plot is designed around a natural gravity-fed water system and ecological restoration",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "This 14-rai (around 5.5 acres) terraced plot is designed around a natural gravity-fed water system and ecological restoration. Working alongside a homeowner who prioritized landscape growth over building construction, the layout captures irrigation water from a front canal, channeling it through winding streams, retention pools, and reed-filtration zones to keep moisture on-site, filter agricultural runoff, and regenerate local plant and animal species. Positioned along these water pathways, the future guest-friendly residence integrates with self-seeded trees and natural wetlands, allowing the building to grow continuously alongside its developing ecosystem."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1Z7crLV_1KmaTrKTvw6PsFkjHvs1R6yQL?usp=drive_link"
+  },
+  {
+    "_id": "project-raintree-lane-farm-house",
+    "_type": "project",
+    "title": "Raintree Lane Farm House",
+    "slug": {
+      "_type": "slug",
+      "current": "raintree-lane-farm-house"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 18,
+    "order": 18,
+    "service": "Architect",
+    "typologies": [
+      "Residential"
+    ],
+    "owner": "Sirinapa Fahey - David Fahey",
+    "designCredit": null,
+    "year": 2024,
+    "completionLabel": "2024",
+    "status": "Completed",
+    "location": "San Kamphaeng , Chiang Mai",
+    "area": "150 sq.m.",
+    "materials": [
+      "Reclaim wood",
+      "Brick, Clay"
+    ],
+    "summary": "Set within a nearly three-rai plot, this modest gabled wooden house was designed using permaculture principles and satellite elevation mapping to guide building placement, tree planting, and a low-lying retention pond",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Set within a nearly three-rai plot, this modest gabled wooden house was designed using permaculture principles and satellite elevation mapping to guide building placement, tree planting, and a low-lying retention pond. Built on a gentle slope for flood drainage and elevated views, the residence mimics two interconnected volumes stepping upward from a low-undercroft kitchen and living hall to a high-undercroft bedroom zone featuring a favorite ground-floor lounge, dining spot, hammock area, and tool workshop. Powered entirely by an off-grid solar energy system, the home eliminates overhead power lines to preserve unobstructed 360-degree views of the surrounding rice fields and western mountains."
+          }
+        ]
+      }
+    ],
+    "awardText": "Baan lae Suan Awards 26 : Houses of the Year",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1B3ObWxd74A2546SQNWF81JqF-F6eJWVo?usp=drive_link"
+  },
+  {
+    "_id": "project-oyea",
+    "_type": "project",
+    "title": "Oyea",
+    "slug": {
+      "_type": "slug",
+      "current": "oyea"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 19,
+    "order": 19,
+    "service": "Architect",
+    "typologies": [
+      "Residential",
+      "Hospitality"
+    ],
+    "owner": "Chaleumpol Tikumpornteerawong",
+    "designCredit": null,
+    "year": 2024,
+    "completionLabel": "2024",
+    "status": "Completed",
+    "location": "Chiang Dao, Thailand",
+    "area": "72 sq.m.",
+    "materials": [
+      "Reclaim wood"
+    ],
+    "summary": "Set on a steep, 100-wah² (approx",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Set on a steep, 100-wah² (approx. 400 sqm) sloped plot beneath a large wild olive tree, this compact one-bedroom retreat follows the traditional high-altitude engineering of Lua and mountain communities. By positioning the structure parallel to site contours without level grading, the design reduces structural costs, preserves natural drainage, and avoids high-wind exposure. The roof combines sub-layered corrugated panels with traditional Tong Tueng (dipterocarp) leaves, acting as a shock-absorbing shield against heavy falling olives in April while eliminating roof glare. Excavated soil from a flat parking area was repurposed to create a stargazing deck held by contour-driven bamboo retaining walls built by Lisu craftsmen, complete with a traditional bamboo shelter (pham)."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1XTEE3TZYNUQNubLPYYj25PoymyS7rDfy?usp=drive_link"
+  },
+  {
+    "_id": "project-nork-kok-house",
+    "_type": "project",
+    "title": "Nork Kok House",
+    "slug": {
+      "_type": "slug",
+      "current": "nork-kok-house"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 20,
+    "order": 20,
+    "service": "Architect",
+    "typologies": [
+      "Residential"
+    ],
+    "owner": "Patiwat Yawichai",
+    "designCredit": null,
+    "year": 2024,
+    "completionLabel": "2024",
+    "status": "Completed",
+    "location": "Hang Dong, Chiang Mai",
+    "area": "110 sq.m.",
+    "materials": [
+      "Reclaim wood",
+      "Brick, Clay"
+    ],
+    "summary": "Rather than consolidating all living functions into a single structure, this rural residence distributes the main house, kitchen, garage, and cattle shed into a cluster of separate buildings",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Rather than consolidating all living functions into a single structure, this rural residence distributes the main house, kitchen, garage, and cattle shed into a cluster of separate buildings. This deliberate layout creates landscape voids that optimize natural ventilation and host daily outdoor activities. Built with familiar gable and lean-to roof forms, the architecture utilizes salvaged timber—particularly rosewood (Mai Pradoo) with its distinct figure and color—left exposed to show its natural aging process. The kitchen is connected to the main house via a timber walkway flanked by vegetable beds and an outdoor hearth, dissolving the boundaries between living, cooking, and the natural environment."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1FQGa9kxOgWtvQlqlkci1IlC6n2mvRO3n?usp=drive_link"
+  },
+  {
+    "_id": "project-chang-house",
+    "_type": "project",
+    "title": "Chang House",
+    "slug": {
+      "_type": "slug",
+      "current": "chang-house"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 21,
+    "order": 21,
+    "service": "Architect",
+    "typologies": [
+      "Residential"
+    ],
+    "owner": "Manapee Khongrakchang",
+    "designCredit": null,
+    "year": 2025,
+    "completionLabel": "2025",
+    "status": "Completed",
+    "location": "Chiang Dao, Thailand",
+    "area": "160 sq.m.",
+    "materials": [
+      "Reclaim wood",
+      "Concrete",
+      "Steel"
+    ],
+    "summary": "This project involves a relocation from Bangkok to Chiang Dao, where the homeowner planned to move with their parents and build a residence on a former one-rai-and-92-square-wah rice paddy field",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "This project involves a relocation from Bangkok to Chiang Dao, where the homeowner planned to move with their parents and build a residence on a former one-rai-and-92-square-wah rice paddy field. Designed to integrate materials salvaged from their dismantled Bangkok home—including stripped paint timber, iron grilles, turned balusters, and converted sliding doors—the house features a ground-floor fabric-dyeing workshop and an open-concept upper living level. Facing Chiengdao's landmark mountain to the north, the home incorporates specialized architectural solutions: an exterior wall framing detail adapted on-site to keep dust out while shedding rain, deep southern eaves to shield against harsh sunlight, and translucent roofing over the southern bathroom to lower humidity through natural daylighting."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1ECjDQR8-CfcJ3FZOf39QCiaJo_A-WI3F?usp=drive_link"
+  },
+  {
+    "_id": "project-rim-noeun-house",
+    "_type": "project",
+    "title": "Rim Noeun House",
+    "slug": {
+      "_type": "slug",
+      "current": "rim-noeun-house"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 22,
+    "order": 22,
+    "service": "Architect",
+    "typologies": [
+      "Residential"
+    ],
+    "owner": "Pratheep Wongkulanit",
+    "designCredit": null,
+    "year": 2025,
+    "completionLabel": "2025",
+    "status": "Completed",
+    "location": "Pua, Nan",
+    "area": "289.50 sq.m.",
+    "materials": [
+      "Reclaim wood",
+      "Concrete"
+    ],
+    "summary": "The homeowner intended for this to be their final lifelong residence, requiring a fully equipped, functional layout to support daily living.\r\nMany details I originally drafted raised questions among the builders—some details were unexecu…",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "The homeowner intended for this to be their final lifelong residence, requiring a fully equipped, functional layout to support daily living.\r\nMany details I originally drafted raised questions among the builders—some details were unexecutable, while for others, the craftsmen suggested superior alternatives. This provided a crucial lesson: having a thorough understanding of on-site construction techniques leads to far more efficient, effective architectural design. Following this experience, I began stripping away non-essential structural elements in subsequent projects, retaining only what was necessary and functional.\r"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "However, because we did not oversee the construction team 100% of the time, various lines and details did not strictly align with the initial blueprints. The craftsmen adapted details organically based on site context, resulting in a finish less polished than other Yangnar Studio projects. Yet upon completion, I found that its unrefined nature breathed life and charm into the house in a way that could never be artificially planned.\r"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Later on, the homeowner desired additional workspace, prompting the addition of an underground subterranean study. Built specifically to escape summer heat and seasonal air pollution, the space features thick earth walls that maintain cool interior temperatures naturally without requiring air conditioning."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1vTP4qu1GA2ML3NSH6DnrtXUiR7Jtbim6?usp=drive_link"
+  },
+  {
+    "_id": "project-summer-house",
+    "_type": "project",
+    "title": "Summer House",
+    "slug": {
+      "_type": "slug",
+      "current": "summer-house"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 23,
+    "order": 23,
+    "service": "Architect",
+    "typologies": [
+      "Residential"
+    ],
+    "owner": "Dounghatai Rattanasatchatham",
+    "designCredit": null,
+    "year": 2025,
+    "completionLabel": "2025",
+    "status": "Completed",
+    "location": "San Kamphaeng, Chiang Mai",
+    "area": "19 sq.m.",
+    "materials": [
+      "Reclaim wood"
+    ],
+    "summary": "Built over two months as a hands-on learning project for architectural interns, this dedicated cat house was created for rescued campus cats",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Built over two months as a hands-on learning project for architectural interns, this dedicated cat house was created for rescued campus cats. The structure utilizes offcut timber and short, thin wood offcuts from the Yangnar sawmill, dictating the wall stud spacing. Designed around an existing Kra-phi Chan tree (Millettia brandisiana), the house features an angled wall angled toward the eastern morning sun to provide gentle warmth and garden views for the cats. Concrete blocks along the southern elevation keep the interior cool and easy to maintain, while offsetting the wall leaves exposed wooden columns that double as natural scratching posts."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/10WZHcgD15ol-JTI04XF5UMQln0dN4C8m?usp=drive_link"
+  },
+  {
+    "_id": "project-teak-nest",
+    "_type": "project",
+    "title": "Teak Nest",
+    "slug": {
+      "_type": "slug",
+      "current": "teak-nest"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 24,
+    "order": 24,
+    "service": "Architect",
+    "typologies": [
+      "Residential"
+    ],
+    "owner": "Yangnar Studio",
+    "designCredit": null,
+    "year": 2025,
+    "completionLabel": "2025 - Present",
+    "status": "In progress",
+    "location": "San Kamphaeng, Chiang Mai",
+    "area": "75 sq.m.",
+    "materials": [
+      "Reclaim wood",
+      "Brick, Clay"
+    ],
+    "summary": "This compact timber lodge was created as a trial residence for woodworking enthusiasts and an additional source of income, built entirely by hand without heavy machinery due to limited site access",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "This compact timber lodge was created as a trial residence for woodworking enthusiasts and an additional source of income, built entirely by hand without heavy machinery due to limited site access. Constructed using stored studio timber, the high-profile structure features traditional wood shingle (paen klet) roofing that extends down to serve as the building's exterior walls. Raised on stilts to withstand moisture from nearby rice paddies and enhance under-roof ventilation, the two-story building showcases hand-hewn textures, exposed timber wedges (lim), and structural frames raised sequentially from east to west according to local beliefs."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1QeSn5cL3y176HfiQ_ZBtMGBVBs7H4oYF?usp=drive_link"
+  },
+  {
+    "_id": "project-is-sara-house",
+    "_type": "project",
+    "title": "Is-sara House",
+    "slug": {
+      "_type": "slug",
+      "current": "is-sara-house"
+    },
+    "readyToPublish": true,
+    "featured": false,
+    "sourceNumber": 25,
+    "order": 25,
+    "service": "Architect",
+    "typologies": [
+      "Residential"
+    ],
+    "owner": "Surawee Klaimark",
+    "designCredit": null,
+    "year": 2026,
+    "completionLabel": "2026",
+    "status": "Completed",
+    "location": "Samoeng, Chiang Mai",
+    "area": "105 sq.m.",
+    "materials": [
+      "Reclaim wood",
+      "Brick, Clay"
+    ],
+    "summary": "This holiday home project focused on meticulous advance planning to streamline on-site construction, minimize errors, and ensure office profitability while allowing craftsmen to identify workflow gaps beforehand",
+    "description": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "This holiday home project focused on meticulous advance planning to streamline on-site construction, minimize errors, and ensure office profitability while allowing craftsmen to identify workflow gaps beforehand. Set in a site with 360-degree views, the design features a slightly angled, multi-functional timber deck that acts as both furniture and a welcoming reception space. The compact two-story layout maximizes distant views upstairs and garden views downstairs, complemented by a detached kitchen. Drawing inspiration directly from the site's iron-rich red soil—excavated during septic tank installation—the architect created an improvised shoe-storage alcove built from home-brewed cob bricks (mixed with rice straw and husks) to encourage guests to remove their shoes before stepping onto the damp morning deck."
+          }
+        ]
+      }
+    ],
+    "awardText": "",
+    "awards": [],
+    "photoSourceUrl": "https://drive.google.com/drive/folders/1ltknEsfRqCgAbYQugD4MItKe-ZL-6JGi?usp=sharing"
+  }
+]

@@ -7,7 +7,6 @@ import Link from 'next/link'
 import {PhamActivities} from './PhamActivities'
 import type {HomeContent, Project} from '@/lib/sanity/content'
 
-const filters = ['All', 'Residential', 'Small Scale', 'Commercial', 'Conservation', 'Masterplan']
 
 type Inquiry = {
   name: string
@@ -24,10 +23,15 @@ export function SiteExperience({content, page = 'home', project: selected}: {con
   const {settings, projects, activities, recognitions} = content
   const [menuOpen, setMenuOpen] = useState(false)
   const [slide, setSlide] = useState(0)
+  const filters = ['All', ...Array.from(new Set(projects.flatMap(p => p.typologies || [p.typology]))).sort()]
+  const services = ['All', ...Array.from(new Set(projects.map(p => p.service).filter((s): s is string => Boolean(s)))).sort()]
+  const [service, setService] = useState('All')
   const [filter, setFilter] = useState('All')
   const [inquiry, setInquiry] = useState<Inquiry | null>(null)
-  const visible = useMemo(() => filter === 'All' ? projects : projects.filter((project) => project.typology === filter), [filter, projects])
-  const heroProject = projects[slide % Math.max(projects.length, 1)]
+  const visible = useMemo(() => projects.filter(project => (filter === 'All' || (project.typologies || [project.typology]).includes(filter)) && (service === 'All' || project.service === service)), [filter, service, projects])
+  const featuredProjects = projects.filter(project => project.featured)
+  const homeProjects = featuredProjects.length ? featuredProjects : projects.slice(0, 4)
+  const heroProject = homeProjects[slide % Math.max(homeProjects.length, 1)]
 
   function submitInquiry(event: FormEvent<HTMLFormElement>) {
     event.preventDefault()
@@ -65,7 +69,7 @@ export function SiteExperience({content, page = 'home', project: selected}: {con
         </div>
         <div className="hero-bottom">
           <Link className="hero-project" href={heroProject ? `/projects/${heroProject.slug}` : '/projects'}>{heroProject?.title}<span>{heroProject?.location} ↗</span></Link>
-          <div className="slide-controls"><button aria-label="Previous featured project" onClick={() => setSlide((slide + projects.length - 1) % Math.max(projects.length, 1))}>←</button><span aria-live="polite">{String(slide + 1).padStart(2, '0')} / {String(projects.length).padStart(2, '0')}</span><button aria-label="Next featured project" onClick={() => setSlide((slide + 1) % Math.max(projects.length, 1))}>→</button></div>
+          <div className="slide-controls"><button aria-label="Previous featured project" onClick={() => setSlide((slide + homeProjects.length - 1) % Math.max(homeProjects.length, 1))}>←</button><span aria-live="polite">{String(slide + 1).padStart(2, '0')} / {String(homeProjects.length).padStart(2, '0')}</span><button aria-label="Next featured project" onClick={() => setSlide((slide + 1) % Math.max(homeProjects.length, 1))}>→</button></div>
           <a href="#works" className="scroll-cue">Explore projects ↓</a>
         </div>
       </section>
@@ -76,16 +80,17 @@ export function SiteExperience({content, page = 'home', project: selected}: {con
         <div className="section-heading">
           <p className="eyebrow">01 / Selected works</p>
           {page === 'projects' ? <h1>Projects</h1> : <h2>Selected<br />projects</h2>}
-          <p>{page === 'home' ? Math.min(projects.length, 4) : projects.length} selected projects from the studio. </p>
+          <p>{page === 'home' ? homeProjects.length : projects.length} selected projects from the studio. </p>
         </div>
-        {page === 'projects' && <div className="filters" aria-label="Filter projects">
+        {page === 'projects' && <><div className="filters" aria-label="Filter by service"><span>Service</span>{services.map(item => <button key={item} aria-pressed={service === item} className={service === item ? 'active' : ''} onClick={() => setService(item)}>{item}</button>)}</div><div className="filters" aria-label="Filter by typology"><span>Typology</span>
           {filters.map((item) => <button className={item === filter ? 'active' : ''} aria-pressed={item === filter} key={item} onClick={() => setFilter(item)}>{item}</button>)}
-        </div>}
+        </div></>}
+        {!visible.length && page === 'projects' && <p>No projects match these filters.</p>}
         <div className="project-grid">
-          {(page === 'home' ? projects.slice(0, 4) : visible).map((project, index) => (
+          {(page === 'home' ? homeProjects : visible).map((project, index) => (
             <Link className="project-card" key={project._id} href={`/projects/${project.slug}`} aria-label={`View ${project.title}`}>
               <span className="project-image"><img src={project.image} alt={project.imageAlt || project.title} loading="lazy" /></span>
-              <span className="project-meta"><span>{String(index + 1).padStart(2, '0')}</span><span>{project.typology}</span><span>{project.year}</span></span>
+              <span className="project-meta"><span>{String(index + 1).padStart(2, '0')}</span><span>{project.typology}</span><span>{project.completionLabel || project.year}</span></span>
               <strong>{project.title}</strong><span className="location">{project.location}</span>
             </Link>
           ))}
@@ -144,7 +149,7 @@ export function SiteExperience({content, page = 'home', project: selected}: {con
         </div>
       </section>}
 
-      {page === 'project' && selected && <article className="project-detail"><div className="project-breadcrumb"><Link href="/projects">← All projects</Link></div><div className="modal-media"><img src={selected.image} alt={selected.imageAlt || selected.title} /></div><div className="modal-copy"><p className="eyebrow">{selected.typology}{selected.year ? ` · ${selected.year}` : ""}</p><h1 id="project-title">{selected.title}</h1><p className="modal-lede">{selected.description || selected.summary}</p><dl className="project-specs"><div><dt>Location</dt><dd>{selected.location}</dd></div><div><dt>Area</dt><dd>{selected.area || '—'}</dd></div><div><dt>Status</dt><dd>{selected.status || '—'}</dd></div></dl><div className="material-tags">{selected.materials?.map((material) => <span key={material}>{material}</span>)}</div>{selected.awards?.map((award) => <p className="award-note" key={award._id}>Award · {award.title}</p>)}{selected.pressUrl && <a className="text-link" href={selected.pressUrl} target="_blank" rel="noreferrer">Read project feature <span>↗</span></a>}</div>{!!selected.gallery?.length && <div className="project-gallery" aria-label="Project photographs">{selected.gallery.map((photo, index) => <figure key={photo.url}><img src={photo.url} alt={photo.alt || `${selected.title} — photograph ${index + 2}`} loading="lazy" />{photo.caption && <figcaption>{photo.caption}</figcaption>}</figure>)}</div>}</article>}
+      {page === 'project' && selected && <article className="project-detail"><div className="project-breadcrumb"><Link href="/projects">← All projects</Link></div><div className="modal-media"><img src={selected.image} alt={selected.imageAlt || selected.title} /></div><div className="modal-copy"><p className="eyebrow">{selected.typology}{selected.completionLabel || selected.year ? ` · ${selected.completionLabel || selected.year}` : ""}</p><h1 id="project-title">{selected.title}</h1><p className="modal-lede">{selected.description || selected.summary}</p><dl className="project-specs">{selected.service && <div><dt>Service</dt><dd>{selected.service}</dd></div>}{selected.owner && <div><dt>Owner</dt><dd>{selected.owner}</dd></div>}{selected.designCredit && <div><dt>Design</dt><dd>{selected.designCredit}</dd></div>}<div><dt>Location</dt><dd>{selected.location}</dd></div><div><dt>Size</dt><dd>{selected.area || '—'}</dd></div><div><dt>Status</dt><dd>{selected.status || '—'}</dd></div></dl><div className="material-tags">{selected.materials?.map((material) => <span key={material}>{material}</span>)}</div>{selected.awardText && <p className="award-note">{selected.awardText}</p>}{selected.awards?.map((award) => <p className="award-note" key={award._id}>Award · {award.title}</p>)}{selected.pressUrl && <a className="text-link" href={selected.pressUrl} target="_blank" rel="noreferrer">Read project feature <span>↗</span></a>}</div>{!!selected.gallery?.length && <div className="project-gallery" aria-label="Project photographs">{selected.gallery.map((photo, index) => <figure key={photo.url}><img src={photo.url} alt={photo.alt || `${selected.title} — photograph ${index + 2}`} loading="lazy" />{photo.caption && <figcaption>{photo.caption}</figcaption>}</figure>)}</div>}</article>}
       <footer><div><strong>Yangnar Studio</strong><span>Architecture · Craft · Place</span></div><div>{settings.socialLinks.map((link) => <a key={link.label} href={link.url} target="_blank" rel="noreferrer">{link.label} ↗</a>)}</div><div><span>Chiang Mai, Thailand</span><span>© {new Date().getFullYear()}</span></div></footer>
 
 

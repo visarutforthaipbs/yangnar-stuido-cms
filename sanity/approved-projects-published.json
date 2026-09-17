@@ -1,0 +1,2224 @@
+[
+  {
+    "_id": "project-sala-suan-tham",
+    "area": "85 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2016",
+    "description": "This project marks the first collaboration between the architect and the homeowner (P'Tor) at Ban Suan Tham in Soi On Nut, initially commissioned to build a demountable storage pavilion that will eventually be relocated to Nakhon Nayok. Recommended by Ajarn Prof Chulaporn Nantapanich, the project is constructed entirely for disassembly, using salvaged timber from an old Likay (Thai folk opera) theater, local river rocks as pillar foundations instead of concrete, and a dense thatch roof inspired by Samut Songkhram salt granaries. Built by northern craftsmen from Yangnar Studio, the hybrid structure combines traditional Ruen Khruang Sap (joined timber) and Ruen Khruang Phuk (bound bamboo) techniques, blending vernacular utility with refined craftsmanship, controlled natural light, and raw, weathered textures.",
+    "designCredit": null,
+    "featured": true,
+    "gallery": [
+      {
+        "alt": "Sala Suan Tham — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/c529ff9a2c3800e37adb30339feea37e231fc125-2200x1467.webp"
+      },
+      {
+        "alt": "Sala Suan Tham — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/7693e8060e1b2414cd27570aad748d60d91c59b1-1467x2200.webp"
+      },
+      {
+        "alt": "Sala Suan Tham — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/eb804b09e9198a95465619e62f4168f37c640e17-2200x1467.webp"
+      },
+      {
+        "alt": "Sala Suan Tham — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/c838795ea011e1afae173c7bdd3d16f0ae84a853-1467x2200.webp"
+      },
+      {
+        "alt": "Sala Suan Tham — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/d9a879fa05c82cedc9d40182e1153297fafb8d42-1467x2200.webp"
+      },
+      {
+        "alt": "Sala Suan Tham — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/4fcc7bd9990e3652855628b520206c736a946892-1467x2200.webp"
+      },
+      {
+        "alt": "Sala Suan Tham — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/04565acb6fe69b61bba47e92e15c583c100d160f-2048x1365.webp"
+      },
+      {
+        "alt": "Sala Suan Tham — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/6d1d8b020e4da4af14a325ffa564bd52cc1217c3-2048x1365.webp"
+      },
+      {
+        "alt": "Sala Suan Tham — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/aa188a9fb211e6c3a7fb20a466413a4320ec145c-2048x1365.webp"
+      },
+      {
+        "alt": "Sala Suan Tham — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/7a77e3e61b313fa16b0cf05ace3552346c924496-2048x1365.webp"
+      },
+      {
+        "alt": "Sala Suan Tham — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/f0048cf28a337b548488b44392c77ff8f1bcc7a7-2200x1467.webp"
+      },
+      {
+        "alt": "Sala Suan Tham — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/588f8adae210950c833d8ae1f8ed7171482b96bd-2200x1467.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/ade09e042df3be17720b7368550612636881899f-2200x1467.webp",
+    "imageAlt": "Sala Suan Tham — project overview",
+    "location": "On Nut 51, Suan Luang, Bangkok",
+    "materials": [
+      "Bamboo",
+      "Reclaim wood"
+    ],
+    "owner": "Thanonchai Sornsriwichai",
+    "pressUrl": null,
+    "service": "Pavilion",
+    "slug": "sala-suan-tham",
+    "status": "Completed",
+    "summary": "This project marks the first collaboration between the architect and the homeowner (P'Tor) at Ban Suan Tham in Soi On Nut, initially commissioned to build a demountable storage pavilion that will eventually be relocated to Nakhon Nayok",
+    "title": "Sala Suan Tham",
+    "typologies": [
+      "Residential"
+    ],
+    "typology": "Residential",
+    "year": 2016
+  },
+  {
+    "_id": "project-studio-yangnar-i",
+    "area": "65 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2018",
+    "description": "Studio Yangnar I is a semi-outdoor design and construction planning studio built largely from natural and reclaimed materials. The interior raised wooden flooring is elevated above a surrounding untreated bamboo deck to protect against rain. Its architectural details adapt traditional Karen vernacular practices, combining a primary bamboo structure with a hardwood frame secured through wood wedges and simple bamboo strip ties.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Studio Yangnar I — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/caf7fdf6844e76cc11b0b7d379a3979538b9314c-2200x1466.webp"
+      },
+      {
+        "alt": "Studio Yangnar I — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/7ff0d29ec71183d594e949cf21bb8481f98818df-2200x1467.webp"
+      },
+      {
+        "alt": "Studio Yangnar I — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/c3e137e241bd7767bd6bcb2a7f3d2ccec556f935-2200x1467.webp"
+      },
+      {
+        "alt": "Studio Yangnar I — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/92dfb171a2aed7d62e21743025dbb1f31eb6f08c-1467x2200.webp"
+      },
+      {
+        "alt": "Studio Yangnar I — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/9755fc550cac0eaa244f08a2849ac61d4959202d-2200x1467.webp"
+      },
+      {
+        "alt": "Studio Yangnar I — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/743cae1c346b506145667eb5634c1b826cae8610-1467x2200.webp"
+      },
+      {
+        "alt": "Studio Yangnar I — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/464685d5f6a290a0c1e2498ac05b405b9816ffd6-2200x1467.webp"
+      },
+      {
+        "alt": "Studio Yangnar I — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/e2234e620a20ebca9573171c8ee31eec1258b2df-2200x1467.webp"
+      },
+      {
+        "alt": "Studio Yangnar I — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/e6100a6aaa599ffe525dd8bb31cb279c8a1fc8e7-2200x1467.webp"
+      },
+      {
+        "alt": "Studio Yangnar I — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/17c1d9b35c34e1df48fe9512ac9640b9a9167563-1467x2200.webp"
+      },
+      {
+        "alt": "Studio Yangnar I — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/6dcf04527d4fa68acdeb6012d0b95434cb7661c1-2200x1467.webp"
+      },
+      {
+        "alt": "Studio Yangnar I — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/8de94b2475f32f9d6e8511ff141c55bd1cf0b23f-1467x2200.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/cd1e0dbbe9c23702608734c31f9447aaf20398d2-2200x1466.webp",
+    "imageAlt": "Studio Yangnar I — project overview",
+    "location": "San Kamphaeng, Chiang Mai",
+    "materials": [
+      "Reclaim wood",
+      "Bamboo"
+    ],
+    "owner": "Yangnar Studio",
+    "pressUrl": null,
+    "service": "Pavilion",
+    "slug": "studio-yangnar-i",
+    "status": "Completed",
+    "summary": "Studio Yangnar I is a semi-outdoor design and construction planning studio built largely from natural and reclaimed materials",
+    "title": "Studio Yangnar I",
+    "typologies": [
+      "Office"
+    ],
+    "typology": "Office",
+    "year": 2018
+  },
+  {
+    "_id": "project-noi-house",
+    "area": "75 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2018",
+    "description": "Noi House is a compact, 75-square-meter residence designed to maximize multi-functional living spaces on a tight budget. To keep costs down while optimizing utility, the design makes full use of affordable and locally sourced materials, including small reclaimed wood pieces, low-cost concrete blocks, and bamboo harvested from the surrounding area.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Noi House — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/7ff0d29ec71183d594e949cf21bb8481f98818df-2200x1467.webp"
+      },
+      {
+        "alt": "Noi House — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/e3085608d0470dbae72daa7a3fed1d2b519bcdb5-1764x2200.webp"
+      },
+      {
+        "alt": "Noi House — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/dcc07dbe6d50a99f8da92daa3aa0be36bf23cd57-2200x1466.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/aa3e04f148ede1b4231ae5b2b544d291817107a1-2026x2200.webp",
+    "imageAlt": "Noi House — project overview",
+    "location": "San Kamphaeng, Chiang Mai",
+    "materials": [
+      "Reclaim wood",
+      "Concrete",
+      "Bamboo"
+    ],
+    "owner": "Dechophon Rattanasatchatham",
+    "pressUrl": null,
+    "service": "Architect",
+    "slug": "noi-house",
+    "status": "Completed",
+    "summary": "Noi House is a compact, 75-square-meter residence designed to maximize multi-functional living spaces on a tight budget",
+    "title": "Noi House",
+    "typologies": [
+      "Residential"
+    ],
+    "typology": "Residential",
+    "year": 2018
+  },
+  {
+    "_id": "project-inthanon-walkway",
+    "area": "150 m walkway",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2018",
+    "description": "Initiated by the Thai Rak Pa Foundation and Doi Inthanon National Park, this project repaired the 150-meter walkway leading to Thailand's highest peak, designed by Ajarn Chulaporn Nantapanich and constructed by Yangnar Studio. Working under strict conservation limits—allowing only a 50 cm clearance alongside the 1.5-meter-wide path—the team faced extreme high-altitude weather, daily rain, persistent tourist traffic, and biting gnats. Timber components were pre-cut below the mountain, including hand-axed teak posts, teak decking and handrails, and hardwood support beams. Completed over four months in 2018, the project now serves as a design model for future national park boardwalks.",
+    "designCredit": "Northforest Studio",
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Inthanon Walkway — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/82a1d84b0e6d1af9a559bb4a317cbed8c158b5db-1536x2048.webp"
+      },
+      {
+        "alt": "Inthanon Walkway — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/7aa5a6a6100120dbf9630fd22a2b279d551d8d26-2048x1536.webp"
+      },
+      {
+        "alt": "Inthanon Walkway — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/33d1e5f53e62f1b51656960d4a16aef363a1205a-2048x1536.webp"
+      },
+      {
+        "alt": "Inthanon Walkway — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/2be54c48c8df8bac285adf1a0c9579d1ed345f61-1536x2048.webp"
+      },
+      {
+        "alt": "Inthanon Walkway — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/0337d098d679b0cd1f0693e88d9c6512632a1f12-1536x2048.webp"
+      },
+      {
+        "alt": "Inthanon Walkway — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/d4b5efdf04252db9bec84cfaf33c64d3b0e3a2bc-2048x1536.webp"
+      },
+      {
+        "alt": "Inthanon Walkway — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/e659282601f62a70d6bd34f58dcc7a56809f9457-2048x1536.webp"
+      },
+      {
+        "alt": "Inthanon Walkway — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/c02a9ac3cb7da85a49ca2da678e428dd16c94864-2048x1536.webp"
+      },
+      {
+        "alt": "Inthanon Walkway — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/a92f344e43f6225c1a561056f8d8bb4efce36e18-2048x1536.webp"
+      },
+      {
+        "alt": "Inthanon Walkway — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/af1e3eec5d9cd78abdec1d0153f432cd35de2a21-1536x2048.webp"
+      },
+      {
+        "alt": "Inthanon Walkway — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/2a915402c6509875d3ac4994ff2bc1d12d086a99-1536x2048.webp"
+      },
+      {
+        "alt": "Inthanon Walkway — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/5005a4531e03ce5fc6c41bd4d2b3909331c7cf68-1536x2048.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/9729a226799e69f7513808b1675bf99591fbb6e8-1536x2048.webp",
+    "imageAlt": "Inthanon Walkway — project overview",
+    "location": "Chom Thong, Chiang Mai",
+    "materials": [
+      "Reclaim wood"
+    ],
+    "owner": "Doi Inthanon National Park",
+    "pressUrl": null,
+    "service": "Landscape",
+    "slug": "inthanon-walkway",
+    "status": "Completed",
+    "summary": "Initiated by the Thai Rak Pa Foundation and Doi Inthanon National Park, this project repaired the 150-meter walkway leading to Thailand's highest peak, designed by Ajarn Chulaporn Nantapanich and constructed by Yangnar Studio",
+    "title": "Inthanon Walkway",
+    "typologies": [
+      "Civic / Public"
+    ],
+    "typology": "Civic / Public",
+    "year": 2018
+  },
+  {
+    "_id": "project-kha-nam-noi",
+    "area": "148 sq.m.",
+    "awardText": "Baan lae Suan Awards 23 : 10 Houses of the Year",
+    "awards": [],
+    "completionLabel": "2019",
+    "description": "Baan Kanam Noi is a temporary residence designed to integrate seamlessly within a former pigsty while minimizing environmental impact. Built with raw, uncoated natural materials and reusing original structural constraints, the home features three offset functional modules—a kitchen, living room, and bedroom—positioned to maximize natural light and airflow. Its internal spaces connect smoothly to the outdoors via corridors, sliding corrugated zinc doors, and terraces that link to a plant nursery, an outdoor garden bathroom, and a dog training field.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Ka Nam Noi House — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/2859e0e67e91c27613874f0a7a393162d62296f8-2200x1196.webp"
+      },
+      {
+        "alt": "Ka Nam Noi House — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/911cc4b0c8751e50ec1307dd00ffbf1d91f7778c-2200x1466.webp"
+      },
+      {
+        "alt": "Ka Nam Noi House — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/d20d6caf89b6066cbde453a91d84ab956c19e8af-2200x1467.webp"
+      },
+      {
+        "alt": "Ka Nam Noi House — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/80144a4fc382e15f340e5131c1817041ab8ce8c3-2200x1241.webp"
+      },
+      {
+        "alt": "Ka Nam Noi House — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/588d01ac3084380366f51939bcf8c0599b37246e-2200x1328.webp"
+      },
+      {
+        "alt": "Ka Nam Noi House — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/a1fe168edfb746a3b408457de4643ca3f7115f1e-2200x1466.webp"
+      },
+      {
+        "alt": "Ka Nam Noi House — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/7f25e8a08fb6b4711dfad83dd3d479d949033678-2200x1261.webp"
+      },
+      {
+        "alt": "Ka Nam Noi House — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/73cef5605b8c8b43efa77dff0c5b3070cc4a48fd-2200x1467.webp"
+      },
+      {
+        "alt": "Ka Nam Noi House — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/b5f5d1851e6bee47af570e9eaf115c886b295577-2200x1467.webp"
+      },
+      {
+        "alt": "Ka Nam Noi House — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/74de6bbfdf3c52e00867fa602af17eac55cdd7e2-1641x2200.webp"
+      },
+      {
+        "alt": "Ka Nam Noi House — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/ba838aa1a03ee88d89975da65a8a3d297b327716-2200x1467.webp"
+      },
+      {
+        "alt": "Ka Nam Noi House — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/e5642440e566d7dfc4d1995cf791c39fe51a23b1-2200x1462.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/3a77acda77df9fe954afe4d95efced4f9261b209-2200x1116.webp",
+    "imageAlt": "Ka Nam Noi House — project overview",
+    "location": "In Buri, Sing Buri",
+    "materials": [
+      "Reclaim wood",
+      "Steel",
+      "Concrete"
+    ],
+    "owner": "Parndej Boondej - Rung Tangtatarakul",
+    "pressUrl": "https://www.archdaily.com/985919/kha-nam-noi-house-yangnar-studio",
+    "service": "Architect",
+    "slug": "kha-nam-noi",
+    "status": "Completed",
+    "summary": "Baan Kanam Noi is a temporary residence designed to integrate seamlessly within a former pigsty while minimizing environmental impact",
+    "title": "Ka Nam Noi House",
+    "typologies": [
+      "Residential"
+    ],
+    "typology": "Residential",
+    "year": 2019
+  },
+  {
+    "_id": "project-villa-sanlomjoy",
+    "area": "280 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2019",
+    "description": "The core design concept draws inspiration from the traditional Ruen Pae (shophouse architecture) historically found in areas like Wat Ket, featuring gable eaves aligned parallel to the street to suit long, rectangular plots. The design incorporates a central courtyard separating the front and rear buildings—a spatial concept adapted from traditional Chinese shophouses in Songkhla. Additionally, influenced by the homeowner's appreciation for Sri Lankan architect Geoffrey Bawa, the house blends Asian vernacular forms with tropical modern sensibilities.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Villa Sanlomjoy — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/06b4af5d100305ece17a4b592d685b21beb05d61-2200x1466.webp"
+      },
+      {
+        "alt": "Villa Sanlomjoy — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/09518b911bfd58b1c54796408ded0d215d82f312-2200x1466.webp"
+      },
+      {
+        "alt": "Villa Sanlomjoy — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/fb3a625ca02de6334756da9b9f943f60c0b7006d-1467x2200.webp"
+      },
+      {
+        "alt": "Villa Sanlomjoy — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/391f37144e2a6e8e571157fef49c560e2ae518e7-2200x1247.webp"
+      },
+      {
+        "alt": "Villa Sanlomjoy — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/e23c371b332da4d9c1ae5251256f8dfa0e90c6cb-2200x1467.webp"
+      },
+      {
+        "alt": "Villa Sanlomjoy — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/54612e79a093859cff9a967b703889294e0f65b3-1681x2200.webp"
+      },
+      {
+        "alt": "Villa Sanlomjoy — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/ee82df435d3c63cedd1b3a11b8447729d8784724-1467x2200.webp"
+      },
+      {
+        "alt": "Villa Sanlomjoy — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/fe3cadde6c0c5832e795352d12f653c7ca58116c-2200x1466.webp"
+      },
+      {
+        "alt": "Villa Sanlomjoy — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/8bc3faf1acadfbc1a6a75366c826b1366dc0c3e0-1580x2200.webp"
+      },
+      {
+        "alt": "Villa Sanlomjoy — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/a5c5c18fb0253bceac0f7384cb1c2d9f033cc7b0-1467x2200.webp"
+      },
+      {
+        "alt": "Villa Sanlomjoy — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/843736403adf4756c16bc8478221fb8410ecf991-2200x1466.webp"
+      },
+      {
+        "alt": "Villa Sanlomjoy — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/23c4775dbc3ee8651cb6ba7eb3866527f0cd6b2d-2200x1466.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/c74f2cab5139befc9ad1192310b5e45b99654e34-1767x2200.webp",
+    "imageAlt": "Villa Sanlomjoy — project overview",
+    "location": "Mueang Chiang Mai, Chiang Mai",
+    "materials": [
+      "Reclaim materials",
+      "Concrete"
+    ],
+    "owner": "Arunwan Chamnanprai - Wanassanun Aroonchote",
+    "pressUrl": null,
+    "service": "Architect",
+    "slug": "villa-sanlomjoy",
+    "status": "Completed",
+    "summary": "The core design concept draws inspiration from the traditional Ruen Pae (shophouse architecture) historically found in areas like Wat Ket, featuring gable eaves aligned parallel to the street to suit long, rectangular plots",
+    "title": "Villa Sanlomjoy",
+    "typologies": [
+      "Residential"
+    ],
+    "typology": "Residential",
+    "year": 2019
+  },
+  {
+    "_id": "project-adobe-house",
+    "area": "157 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2020",
+    "description": "This adobe house project draws inspiration from traditional Tai Khuen earthen villages in Kengtung, Myanmar, visited by the architect and homeowner. Designed to embrace natural thermal regulation—keeping interiors cool in summer and warm in winter—the architecture emphasizes simple, non-industrialized techniques without heavy machinery or chemical coatings. Reflecting vernacular practices, such as storing harvests in darkened ground floors and hand-firing roof tiles from rice paddy topsoil, the house embodies an understanding that natural earthen materials are meant to age gracefully and deteriorate over time.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Adobe House — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/747acb10a9a0760e72133b2d65a257c4e2c3945c-1466x2200.webp"
+      },
+      {
+        "alt": "Adobe House — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/a03c105ae119a18642589b345ae4c53ab58649a9-1466x2200.webp"
+      },
+      {
+        "alt": "Adobe House — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/a022897106d20c35b1878d51969364210697ade5-2200x1467.webp"
+      },
+      {
+        "alt": "Adobe House — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/6986bdbc0a9fd17bebea2a8d48839b526f4d236b-1730x2200.webp"
+      },
+      {
+        "alt": "Adobe House — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/5dcbc9491c68892c0a3d672d80ca82cfcd2057fd-2200x1263.webp"
+      },
+      {
+        "alt": "Adobe House — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/dfc7e07b7238cabfb399135fe8829768205a174d-2200x1650.webp"
+      },
+      {
+        "alt": "Adobe House — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/8e79e7093921eab07203c6664f812e08dfc7cccf-2200x1647.webp"
+      },
+      {
+        "alt": "Adobe House — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/6b25094ee07565f0c595abea26fbcdaabff67344-2200x1525.webp"
+      },
+      {
+        "alt": "Adobe House — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/59c834525805bb6fb187d968b92b9588b1784905-2200x1650.webp"
+      },
+      {
+        "alt": "Adobe House — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/ad4534dd4c675d7bcdc4995c4cde96ba9b449d64-1650x2200.webp"
+      },
+      {
+        "alt": "Adobe House — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/367d1109c7a7ece3d04dabfc5f123e024a01a4b5-2200x1650.webp"
+      },
+      {
+        "alt": "Adobe House — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/ffd202a6b1053e0bc179a43d81dd7a85e36843b0-1365x2048.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/6379059bd67d13d2eb32e6d3cea916043c96eea9-2200x1467.webp",
+    "imageAlt": "Adobe House — project overview",
+    "location": "Pua, Nan",
+    "materials": [
+      "Brick, Clay",
+      "Reclaim wood",
+      "Bamboo"
+    ],
+    "owner": "Pratheep Wongkulanit",
+    "pressUrl": null,
+    "service": "Architect",
+    "slug": "adobe-house",
+    "status": "Completed",
+    "summary": "This adobe house project draws inspiration from traditional Tai Khuen earthen villages in Kengtung, Myanmar, visited by the architect and homeowner",
+    "title": "Adobe House",
+    "typologies": [
+      "Residential"
+    ],
+    "typology": "Residential",
+    "year": 2020
+  },
+  {
+    "_id": "project-baan-tita",
+    "area": "150 sq.m.",
+    "awardText": "Baan lae Suan Awards 23 : 10 Houses of the Year",
+    "awards": [],
+    "completionLabel": "2021",
+    "description": "Baan Tita reflects an architectural design shaped by direct living experience, blending local wisdom and craftsmanship to promote sustainable living within its natural context. The home features a three-tier split-level layout—starting from a clay-brick entrance hall, stepping up via wooden stairs to a central deck and traditional Toen (raised terrace) linked to the kitchen, and topping out at two bedrooms connected to a workspace and a south-facing bathroom. Its varied floor elevations create practical under-croft (tai-tun) spaces beneath, ranging from low storage areas for farm produce to high-ceiling spaces used for woodworking and daytime relaxation.",
+    "designCredit": null,
+    "featured": true,
+    "gallery": [
+      {
+        "alt": "Tita House — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/22cd4ba43ef014cc3ed7b47a807ec3869c2f1d09-2200x1123.webp"
+      },
+      {
+        "alt": "Tita House — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/bd04c74e510074adc39447f1c33cb1e2407a3e94-2200x1466.webp"
+      },
+      {
+        "alt": "Tita House — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/a18d9d540c444ff4ca45a616341fc265742d3c8c-2200x1351.webp"
+      },
+      {
+        "alt": "Tita House — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/78f90a2f9f81f1e2c396fe1ab0843dd94297d123-2200x1466.webp"
+      },
+      {
+        "alt": "Tita House — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/33e6085fa9fdd536900ebaf9d6170d7e167c2d90-2200x1466.webp"
+      },
+      {
+        "alt": "Tita House — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/81dcc87da624246f2506ac83b8441c8abafb8123-2200x1466.webp"
+      },
+      {
+        "alt": "Tita House — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/fae1430a1a4b7dc20eb00b2e9bab7bd57017deb2-2200x1560.webp"
+      },
+      {
+        "alt": "Tita House — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/eaab54d974c345f2aa0bef45313ab046fea503e5-2200x1466.webp"
+      },
+      {
+        "alt": "Tita House — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/0cf073156f789244abf1233c7740e7cfde1ab4b9-2200x1359.webp"
+      },
+      {
+        "alt": "Tita House — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/622149e34e86ef9865d6e8bca3a514205e417391-1466x2200.webp"
+      },
+      {
+        "alt": "Tita House — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/2c2bcb26f5813316480473c37ce9d8bb44651232-2200x1466.webp"
+      },
+      {
+        "alt": "Tita House — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/c193097b4e49df33fb78fcf266c6a809dd7b9470-2200x1467.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/ee15311b4ee871bd86c0b67d0f85f9d96e1e9077-2200x1413.webp",
+    "imageAlt": "Tita House — project overview",
+    "location": "San Kamphaeng, Chiang Mai",
+    "materials": [
+      "Reclaim wood"
+    ],
+    "owner": "Dechophon Rattanasatchatham",
+    "pressUrl": "https://www.archdaily.com/998080/baan-tita-house-yangnar-studio",
+    "service": "Architect",
+    "slug": "baan-tita",
+    "status": "Completed",
+    "summary": "Baan Tita reflects an architectural design shaped by direct living experience, blending local wisdom and craftsmanship to promote sustainable living within its natural context",
+    "title": "Tita House",
+    "typologies": [
+      "Residential"
+    ],
+    "typology": "Residential",
+    "year": 2021
+  },
+  {
+    "_id": "project-yong-house",
+    "area": "300 sq.m.",
+    "awardText": "HRH PRINCESS MAHA CHAKRI SIRINDHORN GRANTED : ASA DESIGN AWARD OF THE YEAR 2024 Award of Merit\nCategory A: Architectural Heritage Conservation",
+    "awards": [],
+    "completionLabel": "2021",
+    "description": "Yong house is a 105-year-old traditional Lanna-style house relocated from Pa Sang District, Lamphun, to Hang Dong District, Chiang Mai. Serving as a second home for a Bangkok-based owner, the reconstruction presented unique challenges due to a lack of original architectural drawings, requiring the team to reverse-engineer the structure from photos. When modern clay tiles added unexpected weight and caused the roof frame to sag, the architects inserted an internal truss system to reinforce the roof without disturbing the lower structure. The team adapted the building's proportions by adding raised footings to replace decayed pillar bases, integrating an adjacent granary (lhong khao) into a new bedroom via a connecting terrace, and preserving historical integrity through salvaged materials, regional clay tiles, exposed wiring, and vintage switches.",
+    "designCredit": null,
+    "featured": true,
+    "gallery": [
+      {
+        "alt": "Yong House — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/b3297246d05f971bee9cfb8e3756bc660c61726c-1476x1108.webp"
+      },
+      {
+        "alt": "Yong House — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/66a65d8628d26584eb3d62f6d9f5666dcdb29da9-2030x2200.webp"
+      },
+      {
+        "alt": "Yong House — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/044d7d655ab606c1eea37495ef74771db8bf4ca4-2200x1466.webp"
+      },
+      {
+        "alt": "Yong House — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/1909a2e66fe87e9bb1bb2abcaa52ab9ca8b3d1a4-2200x1420.webp"
+      },
+      {
+        "alt": "Yong House — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/87f02974fdfe84e5913d91748f0f080fb4b9ef8b-2200x1543.webp"
+      },
+      {
+        "alt": "Yong House — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/7aa46d4355d3e2d5de5bbccefea78a31a65a6524-2200x1375.webp"
+      },
+      {
+        "alt": "Yong House — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/70015b309543e4928fbbf5d522fdcfabba3e55fb-1466x2200.webp"
+      },
+      {
+        "alt": "Yong House — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/897bf14bfd17d09556d5955d7cab8e27c7e8de1b-2200x1466.webp"
+      },
+      {
+        "alt": "Yong House — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/6d283c34bfa4572ce17f73cf2119ffc9c716a973-2200x1324.webp"
+      },
+      {
+        "alt": "Yong House — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/36078184bc0406acf0a2748c3eae0ff7b3ba20d0-2200x1466.webp"
+      },
+      {
+        "alt": "Yong House — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/602505c5e7f8631602b4435f93ac00b44bd4502d-2200x1344.webp"
+      },
+      {
+        "alt": "Yong House — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/acd53e242dd4103002c54b4cfb2e3978086e9027-2200x1174.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/b9d2a6e4734f978714c90bad86e55e03a79c508b-2200x1082.webp",
+    "imageAlt": "Yong House — project overview",
+    "location": "Hang Dong, Chiang Mai",
+    "materials": [
+      "Reclaim wood",
+      "Brick, Clay"
+    ],
+    "owner": "Nipatpan Nutavej - Kamolphan Nutavej",
+    "pressUrl": null,
+    "service": "Renovation",
+    "slug": "yong-house",
+    "status": "Completed",
+    "summary": "Yong house is a 105-year-old traditional Lanna-style house relocated from Pa Sang District, Lamphun, to Hang Dong District, Chiang Mai",
+    "title": "Yong House",
+    "typologies": [
+      "Heritage",
+      "Residential"
+    ],
+    "typology": "Heritage, Residential",
+    "year": 2021
+  },
+  {
+    "_id": "project-ing-suk-house",
+    "area": "50 sq.m.",
+    "awardText": "HRH PRINCESS MAHA CHAKRI SIRINDHORN GRANTED : ASA DESIGN AWARD OF THE YEAR 2024 GOLD MEDAL\nCategory Small Architecture",
+    "awards": [],
+    "completionLabel": "2022",
+    "description": "The structure relies on fundamental construction techniques and raw, natural materials. Uncoated reclaimed timber is left to age naturally, while locally hand-split Pai Sang Mon bamboo forms door and window panels alongside reused wooden doors. Standard local materials—such as concrete blocks and roofing tiles—were chosen to minimize transport and future repair costs. Recycled steel from scrap yards was repurposed for structural roof posts, handrails, light fixtures, and bathroom drainage, complemented by second-hand furniture from Nong Ho Market. Additionally, a traditional log ladder, carved with an axe in the style of vernacular Lao and Vietnamese homes, steps down to the earthen courtyard anchored on river stones from the site's boundary stream.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Ing Suk House — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/cc2279b0a688c2310a388241649440b126ce7e3e-2200x1466.webp"
+      },
+      {
+        "alt": "Ing Suk House — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/14173ae0df0f883d02eb1a8192f3b06bb2d64796-1466x2200.webp"
+      },
+      {
+        "alt": "Ing Suk House — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/a764c140cce7bd8468fcfe775d7a6c54fad4eea3-2200x1466.webp"
+      },
+      {
+        "alt": "Ing Suk House — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/11f1c342486835dfc815f4865b376da9f0eaf17b-2200x1275.webp"
+      },
+      {
+        "alt": "Ing Suk House — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/544f685fdd3744c8a9c07702b046f5a6220fb9ac-2200x1162.webp"
+      },
+      {
+        "alt": "Ing Suk House — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/edd0ccada928ee4005f0dcd046c736cfb05e1448-2200x1208.webp"
+      },
+      {
+        "alt": "Ing Suk House — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/8659338ee516bf8616f58dd31a0dd6c31a704084-2200x1466.webp"
+      },
+      {
+        "alt": "Ing Suk House — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/afae34728b70f22004917dfc08658a5328e9b419-2200x1466.webp"
+      },
+      {
+        "alt": "Ing Suk House — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/094b5052a794424a85cf854ddb0cc75c624c2d8a-2200x1466.webp"
+      },
+      {
+        "alt": "Ing Suk House — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/8a8c5e083b4160bd7a0a428821fde13ad42b0eb1-2200x1466.webp"
+      },
+      {
+        "alt": "Ing Suk House — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/2de8542942e7113c3889a45c3c6f1e9414c90fe4-2200x1467.webp"
+      },
+      {
+        "alt": "Ing Suk House — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/505fa262cabf58e13083802e6395b85cfbad36f0-2200x1200.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/eec1b20bba9a0786337d606ead288ff335b1624f-2200x1217.webp",
+    "imageAlt": "Ing Suk House — project overview",
+    "location": "Hang Dong, Chiang Mai",
+    "materials": [
+      "Reclaim wood",
+      "Steel",
+      "Concrete"
+    ],
+    "owner": "Warit Wanla-Or - Mookda Wanla-Or",
+    "pressUrl": null,
+    "service": "Architect",
+    "slug": "ing-suk-house",
+    "status": "Completed",
+    "summary": "The structure relies on fundamental construction techniques and raw, natural materials",
+    "title": "Ing Suk House",
+    "typologies": [
+      "Residential",
+      "Hospitality"
+    ],
+    "typology": "Residential, Hospitality",
+    "year": 2022
+  },
+  {
+    "_id": "project-studio-yangnar-ii",
+    "area": "70 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2022",
+    "description": "This office structure utilizes pre-existing concrete footings with timber columns extended upward to accommodate future two-story expansion, complete with a flat ceiling hiding structural joists prepared for the upper level. Inside, the layout separates junior and senior staff zones with a planned rear meeting room. Initially fitted with glass louver windows and a metal sheet awning (which replaced a sunshade net), glare issues led the team to introduce interchangeable wooden louver slats and a bamboo overlay—crafted from leftover fence bamboo—on the metal roof to reduce heat, rain noise, and sunlight reflections. Demonstrating adaptive functional design, the corner of the eaves was clipped to grant passage to timber delivery trucks after the workshop shifted deeper into the site.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Studio Yangnar II — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/68eda5c1294c12f7db3f7a8b580a27f5d49c744d-2200x1238.webp"
+      },
+      {
+        "alt": "Studio Yangnar II — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/d7d4820be403385c8383244b0f07af4d994120bb-2200x1238.webp"
+      },
+      {
+        "alt": "Studio Yangnar II — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/edd6c1c9b2db44ec03da87fe0dd179934fe40002-2200x1214.webp"
+      },
+      {
+        "alt": "Studio Yangnar II — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/1c0a8e6fcb76092948078eb8c4b4f3aa40c08f35-2200x1384.webp"
+      },
+      {
+        "alt": "Studio Yangnar II — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/1d33971cefdc36c6b21375f75926340a45673148-2200x1247.webp"
+      },
+      {
+        "alt": "Studio Yangnar II — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/e8d5f5fb2f2df3eb040ffbcd109ba4885cc17e77-2200x1129.webp"
+      },
+      {
+        "alt": "Studio Yangnar II — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/d457e8ae101ca0e4b3711c77dbebe75da8cfdd0b-2200x1466.webp"
+      },
+      {
+        "alt": "Studio Yangnar II — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/26a9066bf83650c29c892d132d62b122d16cf0f3-1621x2200.webp"
+      },
+      {
+        "alt": "Studio Yangnar II — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/5fa5e5e39605bc324adef4dc4ff1c54889b1b7b5-1466x2200.webp"
+      },
+      {
+        "alt": "Studio Yangnar II — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/c85cbde835319deac877529131816577c04dec8f-1456x2200.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/f5ffc842d454bec85fc3a9f57d3f236978b53e6e-2200x1031.webp",
+    "imageAlt": "Studio Yangnar II — project overview",
+    "location": "San Kamphaeng, Chiang Mai",
+    "materials": [
+      "Reclaim wood",
+      "Concrete"
+    ],
+    "owner": "Yangnar Studio",
+    "pressUrl": null,
+    "service": "Architect",
+    "slug": "studio-yangnar-ii",
+    "status": "Completed",
+    "summary": "This office structure utilizes pre-existing concrete footings with timber columns extended upward to accommodate future two-story expansion, complete with a flat ceiling hiding structural joists prepared for the upper level",
+    "title": "Studio Yangnar II",
+    "typologies": [
+      "Office"
+    ],
+    "typology": "Office",
+    "year": 2022
+  },
+  {
+    "_id": "project-thingamajiggy",
+    "area": "21 sq.m.",
+    "awardText": "HRH PRINCESS MAHA CHAKRI SIRINDHORN GRANTED : ASA DESIGN AWARD OF THE YEAR 2024 GOLD MEDAL\r\nCategory Small Architecture",
+    "awards": [],
+    "completionLabel": "2023",
+    "description": "Located in Huai Sai, Mae Rim, Chiang Mai, Thingamajiggy is a coffee shop conceived as an \"ever-evolving architecture\" designed to transform alongside its surrounding rice fields, western mountain ranges, and growing shade trees. Embracing natural material lifespans without artificial chemical preservation, Yangnar Studio built a simple bamboo pavilion using traditional tools (knives, drills, and Chiang Mai axes). The structure features untreated Pai Sang Mon bamboo poles driven into the ground with plastic-wrapped footings, bound using fishing net twine tied by Lisu craftsmen, and topped with agricultural shade netting. Serving as an open, boundary-less interspace between two small buildings, it invites visitors to engage with seasonal outdoor elements while waiting for the planted trees to mature.",
+    "designCredit": null,
+    "featured": true,
+    "gallery": [
+      {
+        "alt": "Thingamajiggy — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/e355b32b4834097992e90d52bcefcfc6bd2b647b-1467x2200.webp"
+      },
+      {
+        "alt": "Thingamajiggy — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/665f305facb96dc7714669e0efc293cbea2217c0-2200x1466.webp"
+      },
+      {
+        "alt": "Thingamajiggy — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/4c5cb1a5908e1dfa4fc26f30fb06b3241d5aedf3-2200x1484.webp"
+      },
+      {
+        "alt": "Thingamajiggy — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/996d551fa25ccb7988296f428d18a3446708605e-2200x1467.webp"
+      },
+      {
+        "alt": "Thingamajiggy — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/48fb9c2d787ee7542718b7ce4b348472bbe78c58-2200x1173.webp"
+      },
+      {
+        "alt": "Thingamajiggy — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/679aafa341de5f2d583ca76b1b498b11ada1c2f5-2200x1437.webp"
+      },
+      {
+        "alt": "Thingamajiggy — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/f0b5aa2c70371db673624057cd96a82ceab174a8-2200x1254.webp"
+      },
+      {
+        "alt": "Thingamajiggy — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/a70087beb0f3739bbdc2655d3a383686f0b0ecac-2200x1240.webp"
+      },
+      {
+        "alt": "Thingamajiggy — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/969d6c423b0956382c3f700f8c570aec486cd030-2200x1467.webp"
+      },
+      {
+        "alt": "Thingamajiggy — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/14fda5fee208fd6e23a6d7a821f07d14397e5a3d-2200x1366.webp"
+      },
+      {
+        "alt": "Thingamajiggy — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/1baabfd7199113e474396a566bfba9ff395158d3-2200x1444.webp"
+      },
+      {
+        "alt": "Thingamajiggy — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/b15429678a2a26497fbabcd746abf6850e27a58f-2200x1350.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/1fc4226088802198d01307bbccc6baa0d3a2ca67-2200x1167.webp",
+    "imageAlt": "Thingamajiggy — project overview",
+    "location": "Mae Rim, Chiang Mai",
+    "materials": [
+      "Reclaim wood",
+      "Concrete",
+      "Bamboo",
+      "Brick, Clay"
+    ],
+    "owner": "Doungporn Siri-isra - Kit Siri-isra",
+    "pressUrl": "https://www.archdaily.com/1008264/thingamajiggy-coffee-roaster-yangnar-studio",
+    "service": "Architect",
+    "slug": "thingamajiggy",
+    "status": "Completed",
+    "summary": "Located in Huai Sai, Mae Rim, Chiang Mai, Thingamajiggy is a coffee shop conceived as an \"ever-evolving architecture\" designed to transform alongside its surrounding rice fields, western mountain ranges, and growing shade trees",
+    "title": "Thingamajiggy",
+    "typologies": [
+      "Commercial"
+    ],
+    "typology": "Commercial",
+    "year": 2023
+  },
+  {
+    "_id": "project-jinni-organic-home-garden",
+    "area": "130 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2023",
+    "description": "This retirement home was designed around a clear desire to live in harmony with nature, accommodating a homeowner dedicated to organic farming. Transitioning from a concrete house lacking green space, the design features a modest, low-set timber structure that avoids high staircases for ease of access in older age. The minimal layout includes only essential living functions—a bedroom, storage, and a sitting nook—alongside a spacious multi-purpose area for gardening equipment, resembling an expanded garden shed that blends into the surrounding landscape.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Jinni Organic Home Garden — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/3b59022dc703ff62b40cf7be0375d4057c293f93-2200x1466.webp"
+      },
+      {
+        "alt": "Jinni Organic Home Garden — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/e299b2c54f5292a6d9e2b9fd65d667414c012d62-2200x1479.webp"
+      },
+      {
+        "alt": "Jinni Organic Home Garden — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/998e12bf3f80c8fdba4e8e320db928253f38eea0-2200x1450.webp"
+      },
+      {
+        "alt": "Jinni Organic Home Garden — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/18f01d942fe67a901f384b05740eab6ed403d478-2200x1112.webp"
+      },
+      {
+        "alt": "Jinni Organic Home Garden — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/7aefbfec57b9fe81d4a72a771b1377fcfb0a7c18-1576x2200.webp"
+      },
+      {
+        "alt": "Jinni Organic Home Garden — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/aa68b50d3925d9792d84d9037c734e6764048a2b-2200x1466.webp"
+      },
+      {
+        "alt": "Jinni Organic Home Garden — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/a263fa7c77ee824c050becfd1bb70ef417307260-2200x1467.webp"
+      },
+      {
+        "alt": "Jinni Organic Home Garden — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/6d1a6b4581d7208d17839444c335c64993fcb6b5-1466x2200.webp"
+      },
+      {
+        "alt": "Jinni Organic Home Garden — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/5f5d2dfee4abdaa837a4f180576d15fcc5b6a1db-2200x1466.webp"
+      },
+      {
+        "alt": "Jinni Organic Home Garden — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/e2d67f5a8310f093ab25ce0db9c69656edb760e1-2200x1346.webp"
+      },
+      {
+        "alt": "Jinni Organic Home Garden — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/7b6b6abb6a4082e3621584373193dcfb75f8407a-2200x1466.webp"
+      },
+      {
+        "alt": "Jinni Organic Home Garden — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/f17d1b52dcb873f57da8a6d66264db73706c0684-2200x1467.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/7b5e293d89537e0556557330cfff81520e867a54-2200x1466.webp",
+    "imageAlt": "Jinni Organic Home Garden — project overview",
+    "location": "Bangkae, Bangkok",
+    "materials": [
+      "Reclaim wood",
+      "Concrete"
+    ],
+    "owner": "Weerasak Boonvorametee",
+    "pressUrl": null,
+    "service": "Architect",
+    "slug": "jinni-organic-home-garden",
+    "status": "Completed",
+    "summary": "This retirement home was designed around a clear desire to live in harmony with nature, accommodating a homeowner dedicated to organic farming",
+    "title": "Jinni Organic Home Garden",
+    "typologies": [
+      "Residential"
+    ],
+    "typology": "Residential",
+    "year": 2023
+  },
+  {
+    "_id": "project-sala-klong-5",
+    "area": "90.5 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2023",
+    "description": "Designed around the concept of a farmer's residence, the project features a shaded ground-floor undercroft (tai-tun) for daytime rest during outdoor labor. The residence consists of two structures: a single-story pavilion housing a study and sitting area, and a main two-story building with a bedroom, living space, and kitchen upstairs over an open ground level. To handle the complex timber framing, new lumber was custom-milled and pre-fitted—including mortise joints for beams, wall plates, and rafters—over two weeks. The entire structure was pre-assembled on the ground to verify measurements before being raised frame by frame for high accuracy.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Sala Klong 5 — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/0e09d7053c020ef6e1e1bb1eb81b9dd2e5a06638-2200x1216.webp"
+      },
+      {
+        "alt": "Sala Klong 5 — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/998d9b5d8021014eb2891a4843944593f0d98436-1466x2200.webp"
+      },
+      {
+        "alt": "Sala Klong 5 — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/0f2ae8de367a3049fc1324187f98be5aef3dd854-2200x1466.webp"
+      },
+      {
+        "alt": "Sala Klong 5 — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/032e7eb25728e9ae47e26531017a254173e7f085-2200x1338.webp"
+      },
+      {
+        "alt": "Sala Klong 5 — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/faced17d56d376598b176badefe82f3e86c36d9b-2200x1765.webp"
+      },
+      {
+        "alt": "Sala Klong 5 — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/aa961fde0fcae4a286298e2d76e5fac76dca6fb7-2200x1467.webp"
+      },
+      {
+        "alt": "Sala Klong 5 — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/2ccce8b43fcdbb4f4fb43ab3edbf56926be157c9-2200x1127.webp"
+      },
+      {
+        "alt": "Sala Klong 5 — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/da792d3abdd7d20dbf34ebccb0e8522c5d159da9-2200x1647.webp"
+      },
+      {
+        "alt": "Sala Klong 5 — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/2310b6ed2dd1fdedc48281797f62b37c805bb147-2200x1475.webp"
+      },
+      {
+        "alt": "Sala Klong 5 — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/e30427019f0b87c5606a0c3bce0d8505a2d851d6-2200x1467.webp"
+      },
+      {
+        "alt": "Sala Klong 5 — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/8c557703b6a0563edbf8b5b4e761dc9144522615-2200x1466.webp"
+      },
+      {
+        "alt": "Sala Klong 5 — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/4f17825d2e92c6e358af48ba1a743d8998dd4df9-2200x1466.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/11e13a75b359d81f6fa0013d6ec8e1df1c075e8a-2200x1296.webp",
+    "imageAlt": "Sala Klong 5 — project overview",
+    "location": "Khlong Luang, Pathum Thani",
+    "materials": [
+      "Brick, Clay",
+      "Reclaim wood"
+    ],
+    "owner": "Touch Kasemsittichoke",
+    "pressUrl": null,
+    "service": "Architect",
+    "slug": "sala-klong-5",
+    "status": "Completed",
+    "summary": "Designed around the concept of a farmer's residence, the project features a shaded ground-floor undercroft (tai-tun) for daytime rest during outdoor labor",
+    "title": "Sala Klong 5",
+    "typologies": [
+      "Residential"
+    ],
+    "typology": "Residential",
+    "year": 2023
+  },
+  {
+    "_id": "project-asa-pavillion",
+    "area": "100 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2023",
+    "description": "Inspired by a trekking trip to Baan Kor Kuang in Nan—where local farmers bound clearing-debris with local vines (khreua din) to create cattle fences—this temporary, zero-waste pavilion was created for an exhibit at Suan Luang Rama IX Park in Chiang Mai. Built entirely from straight, unbent bamboo (Pai Sang Mon and Pai Luak Dam), the project emphasized temporary architecture that leaves the site undamaged. Designed through collaborative hands-on labor, Lisu craftsmen taught architects, engineers, and interns how to bind split-bamboo facades using 400 locally sourced khreua din vines, generating income for the Nan community while reflecting the raw, living craftsmanship of the team.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "ASA Pavillion — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/fdfed6d75c760eed143d4d9f24fa0e875a90d3a6-1650x2200.webp"
+      },
+      {
+        "alt": "ASA Pavillion — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/3497d0053648c31d2cea55f73469507f44525494-2200x1102.webp"
+      },
+      {
+        "alt": "ASA Pavillion — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/9c4d89ab51fadb9aa864525dd7ed3fcb1dc540ac-2200x1226.webp"
+      },
+      {
+        "alt": "ASA Pavillion — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/e97ff92a34c4a8bbe2f211ed7a448a8fc3ee6163-1694x2200.webp"
+      },
+      {
+        "alt": "ASA Pavillion — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/530f701a5be7e5020e39b5dfd1db530c7d8d21a3-1466x2200.webp"
+      },
+      {
+        "alt": "ASA Pavillion — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/368e1cc91cfc37df2e0d4a5cc1269560116a7cbc-2200x1467.webp"
+      },
+      {
+        "alt": "ASA Pavillion — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/12cbf15887b069c88ef0245ed9f84951019cc92c-1466x2200.webp"
+      },
+      {
+        "alt": "ASA Pavillion — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/c6f8280f991488cf16f3a31a2e36375effebfe24-2200x1466.webp"
+      },
+      {
+        "alt": "ASA Pavillion — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/9a627c5743228b20509b9a263bdfd90161f78a11-1466x2200.webp"
+      },
+      {
+        "alt": "ASA Pavillion — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/4c83b9f5b07a56c32635a40fe974ffde5b318ccf-2200x1467.webp"
+      },
+      {
+        "alt": "ASA Pavillion — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/03a83467ac40f7dc09cf86b834487376ffc26bfb-2200x1250.webp"
+      },
+      {
+        "alt": "ASA Pavillion — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/771506ffd6fb8abe906e0bcb0bc07e5f6a6af34e-1467x2200.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/fb90d4284e70ead51a594534711d2b42013e0473-2200x1249.webp",
+    "imageAlt": "ASA Pavillion — project overview",
+    "location": "Rama IX Lanna Park, Mueang, Chiang Mai",
+    "materials": [
+      "Bamboo"
+    ],
+    "owner": "The Association of Siamese Architects under Royal Patronage (Lanna)",
+    "pressUrl": null,
+    "service": "Pavilion",
+    "slug": "asa-pavillion",
+    "status": "Completed",
+    "summary": "Inspired by a trekking trip to Baan Kor Kuang in Nan—where local farmers bound clearing-debris with local vines (khreua din) to create cattle fences—this temporary, zero-waste pavilion was created for an exhibit at Suan Luang Rama IX Par…",
+    "title": "ASA Pavillion",
+    "typologies": [
+      "Civic / Public",
+      "Culture"
+    ],
+    "typology": "Civic / Public, Culture",
+    "year": 2023
+  },
+  {
+    "_id": "project-sala-yangnar",
+    "area": "55 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2023",
+    "description": "Functioning as the central hub of Yangnar Studio, this multipurpose pavilion serves as a client reception area, meeting space, staff canteen, and evening lounge. Beyond its daily utility, the structure acts as a full-scale mockup where clients can directly experience timber textures, joinery, exposed electrical wiring, and structural details. While appearing simple at first glance, its unique vernacular engineering utilizes lowered crossbeams (khue) that extend outward to function like bracket arms (khaen nang), nearly doubling the eaves' overhang without complex added framing and creating an intimate, low-profile scale. The layout features a southern utility and meeting screen wall with a hidden pantry, alongside an eastern sun-lit terrace adapted for working, model making, or lounging in the morning sun.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Sala Yangnar — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/008e23e4ba475a3ab93c0b8f6b401f52eb01b86c-1108x1477.webp"
+      },
+      {
+        "alt": "Sala Yangnar — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/5322b6d4e81eb303ade3fe35fae2eb19a19d6fc4-1477x1108.webp"
+      },
+      {
+        "alt": "Sala Yangnar — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/05bb287d5b5f0dfa4c7ec90c6798ab59649f86d1-1477x1108.webp"
+      },
+      {
+        "alt": "Sala Yangnar — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/dc3c4f16167feb197ca7f76d8f7efeedff0a7753-1477x1108.webp"
+      },
+      {
+        "alt": "Sala Yangnar — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/705e08848ec1a5f84ed601ab414b29b21c68c51b-2200x1183.webp"
+      },
+      {
+        "alt": "Sala Yangnar — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/46d50528a053c99c73e7a371bc5a4f7bfa1229c0-2200x1467.webp"
+      },
+      {
+        "alt": "Sala Yangnar — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/8167947955a91b7c7a5fef8d2b1cca6f724fcd0f-2200x1226.webp"
+      },
+      {
+        "alt": "Sala Yangnar — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/6c502030d4dbe8d68a053a6c449afd4337ae2341-2200x1566.webp"
+      },
+      {
+        "alt": "Sala Yangnar — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/165b4c49c24724e5682716d909ef477995169f98-2200x1650.webp"
+      },
+      {
+        "alt": "Sala Yangnar — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/34134d543df41ff1b9e59e88e5a6c82bb4f2482d-2200x1467.webp"
+      },
+      {
+        "alt": "Sala Yangnar — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/741250f9cc70de8e0d9ee7ad70b46fb6faa5d062-2200x1466.webp"
+      },
+      {
+        "alt": "Sala Yangnar — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/24cf72db6aa995056db38d27ef24be18b18aa1a7-2200x1649.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/8d207c8b14bfd42408c4b2985ed75b45f6fb2b33-2200x1307.webp",
+    "imageAlt": "Sala Yangnar — project overview",
+    "location": "San Kamphaeng, Chiang Mai",
+    "materials": [
+      "Reclaim wood"
+    ],
+    "owner": "Yangnar Studio",
+    "pressUrl": "https://www.archdaily.com/1024413/sala-yangnar-yangnar-studio",
+    "service": "Pavilion",
+    "slug": "sala-yangnar",
+    "status": "Completed",
+    "summary": "Functioning as the central hub of Yangnar Studio, this multipurpose pavilion serves as a client reception area, meeting space, staff canteen, and evening lounge",
+    "title": "Sala Yangnar",
+    "typologies": [
+      "Residential"
+    ],
+    "typology": "Residential",
+    "year": 2023
+  },
+  {
+    "_id": "project-tham-tham-pai-garden",
+    "area": "22,400 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2023 - Present",
+    "description": "This 14-rai (around 5.5 acres) terraced plot is designed around a natural gravity-fed water system and ecological restoration. Working alongside a homeowner who prioritized landscape growth over building construction, the layout captures irrigation water from a front canal, channeling it through winding streams, retention pools, and reed-filtration zones to keep moisture on-site, filter agricultural runoff, and regenerate local plant and animal species. Positioned along these water pathways, the future guest-friendly residence integrates with self-seeded trees and natural wetlands, allowing the building to grow continuously alongside its developing ecosystem.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Tham-Tham Pai Garden — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/c87df63b941ba4cfd5b7c09c749351bb76f5c2a4-1706x960.webp"
+      },
+      {
+        "alt": "Tham-Tham Pai Garden — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/12ded8de51587a056f9486020164823e41e18776-1280x960.webp"
+      },
+      {
+        "alt": "Tham-Tham Pai Garden — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/b024156e8c679185b22539f2507366aaff9b4a19-1280x960.webp"
+      },
+      {
+        "alt": "Tham-Tham Pai Garden — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/c552e4ced630392fd9d2f4bd870eecffd8c63080-1280x960.webp"
+      },
+      {
+        "alt": "Tham-Tham Pai Garden — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/70d962fe73106adf3a56e45683a08c8ff4dcf173-1477x1108.webp"
+      },
+      {
+        "alt": "Tham-Tham Pai Garden — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/504e731197caf235ae4b4f69621a230d799d1742-1706x960.webp"
+      },
+      {
+        "alt": "Tham-Tham Pai Garden — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/50edc079f89564160d424dc956e9a20a79e72353-1706x960.webp"
+      },
+      {
+        "alt": "Tham-Tham Pai Garden — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/250b89d89e067505136738a12f80d54113344800-1706x960.webp"
+      },
+      {
+        "alt": "Tham-Tham Pai Garden — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/848bc968cc2f11b676dbacc6e305dfebf9fa3724-1706x960.webp"
+      },
+      {
+        "alt": "Tham-Tham Pai Garden — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/207693a5e305de1c96dd4e20cb5f563cc95a2593-1706x960.webp"
+      },
+      {
+        "alt": "Tham-Tham Pai Garden — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/2d2abd09aac8d6411b5184791d1d39689246681b-1706x960.webp"
+      },
+      {
+        "alt": "Tham-Tham Pai Garden — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/0be3feea7b14bf02047bcc5a49a34e216cbbe666-1706x960.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/955ededd95583161a6194c85f633c56892c16dc4-1280x960.webp",
+    "imageAlt": "Tham-Tham Pai Garden — project overview",
+    "location": "Mae on, Chiang Mai",
+    "materials": [],
+    "owner": "Suratun Kongton",
+    "pressUrl": null,
+    "service": "Landscape",
+    "slug": "tham-tham-pai-garden",
+    "status": "In progress",
+    "summary": "This 14-rai (around 5.5 acres) terraced plot is designed around a natural gravity-fed water system and ecological restoration",
+    "title": "Tham-Tham Pai Garden",
+    "typologies": [
+      "Nature / Recreation"
+    ],
+    "typology": "Nature / Recreation",
+    "year": 2023
+  },
+  {
+    "_id": "project-raintree-lane-farm-house",
+    "area": "150 sq.m.",
+    "awardText": "Baan lae Suan Awards 26 : Houses of the Year",
+    "awards": [],
+    "completionLabel": "2024",
+    "description": "Set within a nearly three-rai plot, this modest gabled wooden house was designed using permaculture principles and satellite elevation mapping to guide building placement, tree planting, and a low-lying retention pond. Built on a gentle slope for flood drainage and elevated views, the residence mimics two interconnected volumes stepping upward from a low-undercroft kitchen and living hall to a high-undercroft bedroom zone featuring a favorite ground-floor lounge, dining spot, hammock area, and tool workshop. Powered entirely by an off-grid solar energy system, the home eliminates overhead power lines to preserve unobstructed 360-degree views of the surrounding rice fields and western mountains.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Raintree Lane Farm House — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/ffb01bfe9451892d8bffc958dfc766aad56a1fc0-2200x1648.webp"
+      },
+      {
+        "alt": "Raintree Lane Farm House — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/60c2294d7e0285843df0b41f8114193eb5a5411f-2200x1078.webp"
+      },
+      {
+        "alt": "Raintree Lane Farm House — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/9dc1e9048efb15e398a90e67d6da915c44290729-2200x1467.webp"
+      },
+      {
+        "alt": "Raintree Lane Farm House — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/ccc0630acba63b83b157396336d184d6b187af38-1587x2200.webp"
+      },
+      {
+        "alt": "Raintree Lane Farm House — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/39df774464bf0507f97199e194284c4ad8e208f3-1467x2200.webp"
+      },
+      {
+        "alt": "Raintree Lane Farm House — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/2f2ad23b15e7462a884688d4610b9b02dc247e32-2200x1467.webp"
+      },
+      {
+        "alt": "Raintree Lane Farm House — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/ca5369f7f2e0d7d2a0c5e5db5b50af5277c9a3b7-1475x2200.webp"
+      },
+      {
+        "alt": "Raintree Lane Farm House — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/2e3455722b55df0a812a5d67737e29fab8227108-2200x1650.webp"
+      },
+      {
+        "alt": "Raintree Lane Farm House — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/acb97decebc370de63028941e541c6302ee8c9ed-1642x2200.webp"
+      },
+      {
+        "alt": "Raintree Lane Farm House — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/cfe476c439db24422a3b9c2c269c65e9e1aa2e41-2200x1314.webp"
+      },
+      {
+        "alt": "Raintree Lane Farm House — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/193f5c53c60976438cc72558cc9dcf7be59f7c76-1467x2200.webp"
+      },
+      {
+        "alt": "Raintree Lane Farm House — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/01495cc83efb9815d32384aaee51bc8f1eedc66b-1466x2200.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/05e45de23a3b5261f910fca4e485e29276b824f7-2200x1466.webp",
+    "imageAlt": "Raintree Lane Farm House — project overview",
+    "location": "San Kamphaeng , Chiang Mai",
+    "materials": [
+      "Reclaim wood",
+      "Brick, Clay"
+    ],
+    "owner": "Sirinapa Fahey - David Fahey",
+    "pressUrl": null,
+    "service": "Architect",
+    "slug": "raintree-lane-farm-house",
+    "status": "Completed",
+    "summary": "Set within a nearly three-rai plot, this modest gabled wooden house was designed using permaculture principles and satellite elevation mapping to guide building placement, tree planting, and a low-lying retention pond",
+    "title": "Raintree Lane Farm House",
+    "typologies": [
+      "Residential"
+    ],
+    "typology": "Residential",
+    "year": 2024
+  },
+  {
+    "_id": "project-oyea",
+    "area": "72 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2024",
+    "description": "Set on a steep, 100-wah² (approx. 400 sqm) sloped plot beneath a large wild olive tree, this compact one-bedroom retreat follows the traditional high-altitude engineering of Lua and mountain communities. By positioning the structure parallel to site contours without level grading, the design reduces structural costs, preserves natural drainage, and avoids high-wind exposure. The roof combines sub-layered corrugated panels with traditional Tong Tueng (dipterocarp) leaves, acting as a shock-absorbing shield against heavy falling olives in April while eliminating roof glare. Excavated soil from a flat parking area was repurposed to create a stargazing deck held by contour-driven bamboo retaining walls built by Lisu craftsmen, complete with a traditional bamboo shelter (pham).",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Oyea — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/21542f38302e77a6dfd92e6f67cef6e42ffae1f3-2200x1467.webp"
+      },
+      {
+        "alt": "Oyea — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/8a37e2c3d8a22293019a803c995899af2182b34d-2200x1467.webp"
+      },
+      {
+        "alt": "Oyea — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/da0510897e1154830e989878c94c9e920d4c24ce-2200x1466.webp"
+      },
+      {
+        "alt": "Oyea — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/ede5bffd3e34aa773729a8872583724855d5271e-2200x1467.webp"
+      },
+      {
+        "alt": "Oyea — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/e2113ad49fe249fab6bf7b966fe07afe74cb6e38-2200x1521.webp"
+      },
+      {
+        "alt": "Oyea — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/f8e13159228c8a839b1360c7759e3cc74d9bbe20-2200x1466.webp"
+      },
+      {
+        "alt": "Oyea — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/70248fbafab551d536b5e48b9add16a3a256a656-2200x1467.webp"
+      },
+      {
+        "alt": "Oyea — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/8d9a01043af9fb0f579393c51405ca5624bc93ff-2200x1347.webp"
+      },
+      {
+        "alt": "Oyea — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/06a4a2744f1f01191e55ff61880f6beee15e9ced-2200x1466.webp"
+      },
+      {
+        "alt": "Oyea — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/254f67d4b60cc0b4218ba1c43f6579bbdc27226c-2200x1466.webp"
+      },
+      {
+        "alt": "Oyea — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/624572562e7f0d5215a0b12d8c698b42b8ed70fe-2200x1467.webp"
+      },
+      {
+        "alt": "Oyea — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/a0d8e255bffdfb8a3d473c07e67d56ba44dba126-2200x1467.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/7b44ae7aa3b35209a3aa6b12dfc5b155791e7d80-2200x1466.webp",
+    "imageAlt": "Oyea — project overview",
+    "location": "Chiang Dao, Thailand",
+    "materials": [
+      "Reclaim wood"
+    ],
+    "owner": "Chaleumpol Tikumpornteerawong",
+    "pressUrl": null,
+    "service": "Architect",
+    "slug": "oyea",
+    "status": "Completed",
+    "summary": "Set on a steep, 100-wah² (approx",
+    "title": "Oyea",
+    "typologies": [
+      "Residential",
+      "Hospitality"
+    ],
+    "typology": "Residential, Hospitality",
+    "year": 2024
+  },
+  {
+    "_id": "project-nork-kok-house",
+    "area": "110 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2024",
+    "description": "Rather than consolidating all living functions into a single structure, this rural residence distributes the main house, kitchen, garage, and cattle shed into a cluster of separate buildings. This deliberate layout creates landscape voids that optimize natural ventilation and host daily outdoor activities. Built with familiar gable and lean-to roof forms, the architecture utilizes salvaged timber—particularly rosewood (Mai Pradoo) with its distinct figure and color—left exposed to show its natural aging process. The kitchen is connected to the main house via a timber walkway flanked by vegetable beds and an outdoor hearth, dissolving the boundaries between living, cooking, and the natural environment.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Nork Kok House — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/60ca70af0ac6dd15d04ceda305a1ca123b9d5150-1467x2200.webp"
+      },
+      {
+        "alt": "Nork Kok House — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/b592525bdcfe87c3f4139c6526b4627bdc14123d-2200x1466.webp"
+      },
+      {
+        "alt": "Nork Kok House — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/924611c2ad81170614c1825f6e56725abdacb0d1-1466x2200.webp"
+      },
+      {
+        "alt": "Nork Kok House — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/1659ecc051db7c1506cd3faf1b560cd63d9abbd0-2200x1307.webp"
+      },
+      {
+        "alt": "Nork Kok House — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/b3eb3d5de7b0c6b3366ed8f9d6fceb135fe67a9a-2200x1466.webp"
+      },
+      {
+        "alt": "Nork Kok House — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/1f039ff260ae32d76d8024ac109a53cccad53b87-2200x1585.webp"
+      },
+      {
+        "alt": "Nork Kok House — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/cd64a70a6b003701a33e198d633ab0e61ae922d4-2200x1402.webp"
+      },
+      {
+        "alt": "Nork Kok House — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/3abb3f69631996f90b720c3e7335f22ff9d6abde-2200x1466.webp"
+      },
+      {
+        "alt": "Nork Kok House — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/05b3d0d08ce742636427165fdb0015117bb237ad-1517x2200.webp"
+      },
+      {
+        "alt": "Nork Kok House — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/514571aa79ebf915dd9b24b07ce101a69bcfe90c-2200x1330.webp"
+      },
+      {
+        "alt": "Nork Kok House — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/fac3ef036e79d06a0baaaaecbc80ba56fc9c1e9e-1689x2200.webp"
+      },
+      {
+        "alt": "Nork Kok House — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/5e92a442f722891d38049eda70c09cfa27c59536-1466x2200.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/15abb28c07e0afbd986ced43406990d056027a2e-2200x1119.webp",
+    "imageAlt": "Nork Kok House — project overview",
+    "location": "Hang Dong, Chiang Mai",
+    "materials": [
+      "Reclaim wood",
+      "Brick, Clay"
+    ],
+    "owner": "Patiwat Yawichai",
+    "pressUrl": null,
+    "service": "Architect",
+    "slug": "nork-kok-house",
+    "status": "Completed",
+    "summary": "Rather than consolidating all living functions into a single structure, this rural residence distributes the main house, kitchen, garage, and cattle shed into a cluster of separate buildings",
+    "title": "Nork Kok House",
+    "typologies": [
+      "Residential"
+    ],
+    "typology": "Residential",
+    "year": 2024
+  },
+  {
+    "_id": "project-chang-house",
+    "area": "160 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2025",
+    "description": "This project involves a relocation from Bangkok to Chiang Dao, where the homeowner planned to move with their parents and build a residence on a former one-rai-and-92-square-wah rice paddy field. Designed to integrate materials salvaged from their dismantled Bangkok home—including stripped paint timber, iron grilles, turned balusters, and converted sliding doors—the house features a ground-floor fabric-dyeing workshop and an open-concept upper living level. Facing Chiengdao's landmark mountain to the north, the home incorporates specialized architectural solutions: an exterior wall framing detail adapted on-site to keep dust out while shedding rain, deep southern eaves to shield against harsh sunlight, and translucent roofing over the southern bathroom to lower humidity through natural daylighting.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Chang House — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/53aa656cdfbf886f145b3e4ed6bfa19c5f09b92a-2200x1580.webp"
+      },
+      {
+        "alt": "Chang House — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/8c2928f8d2be947c739dda872460182cc74e6c88-2200x1470.webp"
+      },
+      {
+        "alt": "Chang House — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/4cf063fd2f5ae3c20db5875550eec5d8a5c25726-1467x2200.webp"
+      },
+      {
+        "alt": "Chang House — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/3f9420e5f9b415ddfa342d4bd30ee3e9fad1d518-2200x1466.webp"
+      },
+      {
+        "alt": "Chang House — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/e1de7b1a40dc211f3182c11fb06ddfb2925214dc-2200x1466.webp"
+      },
+      {
+        "alt": "Chang House — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/07a7e8deb0f15adf67ee8825f6a5dae235deed69-2200x1466.webp"
+      },
+      {
+        "alt": "Chang House — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/2980e752bbe8edc98a757565f4a4093540658e19-1595x2200.webp"
+      },
+      {
+        "alt": "Chang House — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/1068bce48845ae5514f71105b9aab658769a3f96-1494x2200.webp"
+      },
+      {
+        "alt": "Chang House — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/32e6b91b9ad3277c7b2254ca47d292603cef3343-1571x2200.webp"
+      },
+      {
+        "alt": "Chang House — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/e9073ed8a3ccaea32f1211f41746db846dba150a-1467x2200.webp"
+      },
+      {
+        "alt": "Chang House — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/fa6672ef60ca375dea7cbefa7dbb5ef892e26a7c-2200x1467.webp"
+      },
+      {
+        "alt": "Chang House — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/294b76797014a52b8780d5f2ca877ecd07f90242-2200x1467.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/aa52b5ed2c454d86263105f6fa2b06920349b10c-1466x2200.webp",
+    "imageAlt": "Chang House — project overview",
+    "location": "Chiang Dao, Thailand",
+    "materials": [
+      "Reclaim wood",
+      "Concrete",
+      "Steel"
+    ],
+    "owner": "Manapee Khongrakchang",
+    "pressUrl": null,
+    "service": "Architect",
+    "slug": "chang-house",
+    "status": "Completed",
+    "summary": "This project involves a relocation from Bangkok to Chiang Dao, where the homeowner planned to move with their parents and build a residence on a former one-rai-and-92-square-wah rice paddy field",
+    "title": "Chang House",
+    "typologies": [
+      "Residential"
+    ],
+    "typology": "Residential",
+    "year": 2025
+  },
+  {
+    "_id": "project-rim-noeun-house",
+    "area": "289.50 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2025",
+    "description": "The homeowner intended for this to be their final lifelong residence, requiring a fully equipped, functional layout to support daily living.\r\nMany details I originally drafted raised questions among the builders—some details were unexecutable, while for others, the craftsmen suggested superior alternatives. This provided a crucial lesson: having a thorough understanding of on-site construction techniques leads to far more efficient, effective architectural design. Following this experience, I began stripping away non-essential structural elements in subsequent projects, retaining only what was necessary and functional.\r\n\nHowever, because we did not oversee the construction team 100% of the time, various lines and details did not strictly align with the initial blueprints. The craftsmen adapted details organically based on site context, resulting in a finish less polished than other Yangnar Studio projects. Yet upon completion, I found that its unrefined nature breathed life and charm into the house in a way that could never be artificially planned.\r\n\nLater on, the homeowner desired additional workspace, prompting the addition of an underground subterranean study. Built specifically to escape summer heat and seasonal air pollution, the space features thick earth walls that maintain cool interior temperatures naturally without requiring air conditioning.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Rim Noeun House — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/225d19b851e59fa9e28879b22d1e4ec285ec44a8-2200x1467.webp"
+      },
+      {
+        "alt": "Rim Noeun House — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/ceed9f827919e896ae7cface0d758b6a772c0f40-2200x1358.webp"
+      },
+      {
+        "alt": "Rim Noeun House — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/369d0188547f13cc4cd8b417994b24ba99dbe08c-2200x1467.webp"
+      },
+      {
+        "alt": "Rim Noeun House — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/d5da2b60557cf59496cbf34ced4a8240c8446cd9-2200x1450.webp"
+      },
+      {
+        "alt": "Rim Noeun House — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/d27c4a13d95b59cef0504efda51744a601ed3420-2200x1466.webp"
+      },
+      {
+        "alt": "Rim Noeun House — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/bff915f1c70ae901abb8b2836f48918868f297ce-2200x1466.webp"
+      },
+      {
+        "alt": "Rim Noeun House — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/61a66eec6707fc5028c4f5d5fe1a2784f319b9aa-1509x2200.webp"
+      },
+      {
+        "alt": "Rim Noeun House — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/381e7f6e5584ce7ec4a802dfd92770da3e668593-1466x2200.webp"
+      },
+      {
+        "alt": "Rim Noeun House — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/f11ac8d690e843005cfd63f8ab9544d2082f43b0-2200x1466.webp"
+      },
+      {
+        "alt": "Rim Noeun House — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/d5c4c61c8612555796f2cefe0c1103296ca56afc-2200x1466.webp"
+      },
+      {
+        "alt": "Rim Noeun House — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/34da5d03c900e5ac5913be23b0cf0be470ff6a15-2200x1467.webp"
+      },
+      {
+        "alt": "Rim Noeun House — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/c11e1ba989028d30c744dc109d0d98095e9c2a75-2200x1467.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/478714464b869b706366b6780411ecf1e6f772bc-2200x1187.webp",
+    "imageAlt": "Rim Noeun House — project overview",
+    "location": "Pua, Nan",
+    "materials": [
+      "Reclaim wood",
+      "Concrete"
+    ],
+    "owner": "Pratheep Wongkulanit",
+    "pressUrl": null,
+    "service": "Architect",
+    "slug": "rim-noeun-house",
+    "status": "Completed",
+    "summary": "The homeowner intended for this to be their final lifelong residence, requiring a fully equipped, functional layout to support daily living.\r\nMany details I originally drafted raised questions among the builders—some details were unexecu…",
+    "title": "Rim Noeun House",
+    "typologies": [
+      "Residential"
+    ],
+    "typology": "Residential",
+    "year": 2025
+  },
+  {
+    "_id": "project-summer-house",
+    "area": "19 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2025",
+    "description": "Built over two months as a hands-on learning project for architectural interns, this dedicated cat house was created for rescued campus cats. The structure utilizes offcut timber and short, thin wood offcuts from the Yangnar sawmill, dictating the wall stud spacing. Designed around an existing Kra-phi Chan tree (Millettia brandisiana), the house features an angled wall angled toward the eastern morning sun to provide gentle warmth and garden views for the cats. Concrete blocks along the southern elevation keep the interior cool and easy to maintain, while offsetting the wall leaves exposed wooden columns that double as natural scratching posts.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Summer House — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/fbf4de770ec3e719afb8968fc122d75ef28eca7e-1467x2200.webp"
+      },
+      {
+        "alt": "Summer House — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/74329bcd2257bd75da5928b16db7592c57d9d205-2200x1466.webp"
+      },
+      {
+        "alt": "Summer House — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/da559ba60b416d88b89779e4fb752794eee2b2a6-2200x1278.webp"
+      },
+      {
+        "alt": "Summer House — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/5bb2d373a26d9dfd098d3e2db926dbd0da6621ea-2200x1484.webp"
+      },
+      {
+        "alt": "Summer House — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/43cba90e0dbdc0bae0a453efa761388e130516cf-2200x1165.webp"
+      },
+      {
+        "alt": "Summer House — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/c67bdcdaab0e7d9ff8c290493a14a2030fda6a31-2200x1293.webp"
+      },
+      {
+        "alt": "Summer House — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/319c6d2ab2e1984b902b378d77e35bbed0c6e7da-2200x1393.webp"
+      },
+      {
+        "alt": "Summer House — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/373635280c28244016a2a17ab818d40e92625427-2200x1435.webp"
+      },
+      {
+        "alt": "Summer House — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/12cac66d79cf94ba35d4c70d303ffe621e34e933-2200x1350.webp"
+      },
+      {
+        "alt": "Summer House — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/2a05f8e597721ddb6b80c6cf0112bdb855bd6744-1653x2200.webp"
+      },
+      {
+        "alt": "Summer House — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/6bf78f102b57e45556419278a658ebceb4f32656-2200x1467.webp"
+      },
+      {
+        "alt": "Summer House — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/30a7fe7a3807da224f5c7959483e67bccde94dfa-2200x1467.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/da38ead2e4329a8484caeadf9e11a2ee387db29a-2200x1475.webp",
+    "imageAlt": "Summer House — project overview",
+    "location": "San Kamphaeng, Chiang Mai",
+    "materials": [
+      "Reclaim wood"
+    ],
+    "owner": "Dounghatai Rattanasatchatham",
+    "pressUrl": null,
+    "service": "Architect",
+    "slug": "summer-house",
+    "status": "Completed",
+    "summary": "Built over two months as a hands-on learning project for architectural interns, this dedicated cat house was created for rescued campus cats",
+    "title": "Summer House",
+    "typologies": [
+      "Residential"
+    ],
+    "typology": "Residential",
+    "year": 2025
+  },
+  {
+    "_id": "project-teak-nest",
+    "area": "75 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2025 - Present",
+    "description": "This compact timber lodge was created as a trial residence for woodworking enthusiasts and an additional source of income, built entirely by hand without heavy machinery due to limited site access. Constructed using stored studio timber, the high-profile structure features traditional wood shingle (paen klet) roofing that extends down to serve as the building's exterior walls. Raised on stilts to withstand moisture from nearby rice paddies and enhance under-roof ventilation, the two-story building showcases hand-hewn textures, exposed timber wedges (lim), and structural frames raised sequentially from east to west according to local beliefs.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Teak Nest — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/9416742960f3c9882dc8ef5c7cad9173bf9c95da-1440x1800.webp"
+      },
+      {
+        "alt": "Teak Nest — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/fa2685957f97d5b7066c6d25a4c31b207c6df0b7-1440x1800.webp"
+      },
+      {
+        "alt": "Teak Nest — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/46d42ed81bcaea278effd1a58c830da20163b41c-1440x1800.webp"
+      },
+      {
+        "alt": "Teak Nest — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/2e960971ee321da32c7e45f276234001f690d74b-2200x1237.webp"
+      },
+      {
+        "alt": "Teak Nest — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/e946456e83f56e6eda1f814ce3ad4d4e57cba724-2200x1237.webp"
+      },
+      {
+        "alt": "Teak Nest — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/f48ca8dadb7154ed94ce88617927e81f44eb0d3e-2200x1237.webp"
+      },
+      {
+        "alt": "Teak Nest — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/30d57e6c5a2dbecc3f9a2ef7b318d2caeeb323dc-2200x1237.webp"
+      },
+      {
+        "alt": "Teak Nest — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/81918db7d536e4319d6bd7d0a31f68b900f6c809-2200x1237.webp"
+      },
+      {
+        "alt": "Teak Nest — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/1af4977706f779043283cea201b60e22f0ea4f09-2200x1467.webp"
+      },
+      {
+        "alt": "Teak Nest — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/a42e57b7ec2b6d51e4ac60ccc3ff82e2c47d381e-1464x2200.webp"
+      },
+      {
+        "alt": "Teak Nest — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/9683b9d139b80c92c853b8891ced952d6faae234-2200x1464.webp"
+      },
+      {
+        "alt": "Teak Nest — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/61e9ed10b1c7f653a1bce51e707822628b5cf96d-2200x1464.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/8511f7c425c240c73cd6340632b48cfb86e9dbb9-2200x1237.webp",
+    "imageAlt": "Teak Nest — project overview",
+    "location": "San Kamphaeng, Chiang Mai",
+    "materials": [
+      "Reclaim wood",
+      "Brick, Clay"
+    ],
+    "owner": "Yangnar Studio",
+    "pressUrl": null,
+    "service": "Architect",
+    "slug": "teak-nest",
+    "status": "In progress",
+    "summary": "This compact timber lodge was created as a trial residence for woodworking enthusiasts and an additional source of income, built entirely by hand without heavy machinery due to limited site access",
+    "title": "Teak Nest",
+    "typologies": [
+      "Residential"
+    ],
+    "typology": "Residential",
+    "year": 2025
+  },
+  {
+    "_id": "project-is-sara-house",
+    "area": "105 sq.m.",
+    "awardText": "",
+    "awards": [],
+    "completionLabel": "2026",
+    "description": "This holiday home project focused on meticulous advance planning to streamline on-site construction, minimize errors, and ensure office profitability while allowing craftsmen to identify workflow gaps beforehand. Set in a site with 360-degree views, the design features a slightly angled, multi-functional timber deck that acts as both furniture and a welcoming reception space. The compact two-story layout maximizes distant views upstairs and garden views downstairs, complemented by a detached kitchen. Drawing inspiration directly from the site's iron-rich red soil—excavated during septic tank installation—the architect created an improvised shoe-storage alcove built from home-brewed cob bricks (mixed with rice straw and husks) to encourage guests to remove their shoes before stepping onto the damp morning deck.",
+    "designCredit": null,
+    "featured": false,
+    "gallery": [
+      {
+        "alt": "Is-sara House — project photograph 2",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/9302f0b0408f4ad06c7a9030380967d690fcab77-2200x1237.webp"
+      },
+      {
+        "alt": "Is-sara House — project photograph 3",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/da85ac23ec3d1d70811c79d27fd8b5529fe9168b-2200x1237.webp"
+      },
+      {
+        "alt": "Is-sara House — project photograph 4",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/fe744c99bf53ac78a254e9307724e17b54fc3627-1237x2200.webp"
+      },
+      {
+        "alt": "Is-sara House — project photograph 5",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/e77afc22e51bde76580712e3869aa3a7b79ec31c-2200x1237.webp"
+      },
+      {
+        "alt": "Is-sara House — project photograph 6",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/610b5fe0aeb42bf90d2778d57dd4ca67ba08e691-1237x2200.webp"
+      },
+      {
+        "alt": "Is-sara House — project photograph 7",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/d5e9c0b9192b9b0c4e58f1a0c6e7ef038df5db05-1237x2200.webp"
+      },
+      {
+        "alt": "Is-sara House — project photograph 8",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/4765010a11e5b2d0a115a5d65aa0e44cdc573fc5-1237x2200.webp"
+      },
+      {
+        "alt": "Is-sara House — project photograph 9",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/9be4ae2ba2dd3fda5cd6c1d4db4212fe383151f9-2200x1237.webp"
+      },
+      {
+        "alt": "Is-sara House — project photograph 10",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/3783babc84c7efb6274d42b356d6c209a27ebba7-1237x2200.webp"
+      },
+      {
+        "alt": "Is-sara House — project photograph 11",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/c1fbdbc3ff9eb9b1fcf4ff954bbfe219b638dd46-2200x1237.webp"
+      },
+      {
+        "alt": "Is-sara House — project photograph 12",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/2791d65ce45e6752af31fed77c513d950104b738-1237x2200.webp"
+      },
+      {
+        "alt": "Is-sara House — project photograph 13",
+        "caption": null,
+        "url": "https://cdn.sanity.io/images/u4ki4bgu/production/03695e9ed9c04b4a86d228fc6a67fbe0c0bf9b26-2200x1237.webp"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/u4ki4bgu/production/0752be994ceffb311c68e6f0bcbd4266e218e1ac-2200x1237.webp",
+    "imageAlt": "Is-sara House — project overview",
+    "location": "Samoeng, Chiang Mai",
+    "materials": [
+      "Reclaim wood",
+      "Brick, Clay"
+    ],
+    "owner": "Surawee Klaimark",
+    "pressUrl": null,
+    "service": "Architect",
+    "slug": "is-sara-house",
+    "status": "Completed",
+    "summary": "This holiday home project focused on meticulous advance planning to streamline on-site construction, minimize errors, and ensure office profitability while allowing craftsmen to identify workflow gaps beforehand",
+    "title": "Is-sara House",
+    "typologies": [
+      "Residential"
+    ],
+    "typology": "Residential",
+    "year": 2026
+  }
+]

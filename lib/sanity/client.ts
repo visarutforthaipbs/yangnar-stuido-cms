@@ -17,9 +17,9 @@ const homeQuery = `{
     "craftImage": craftImage.asset->url, services[]{title, description}, publications[]{title, "image": image.asset->url},
     email, phone, secondaryPhone, address, socialLinks, budgetOptions
   },
-  "projects": *[_type == "project" && featured == true] | order(order asc) {
-    _id, title, "slug": slug.current, year,
-    "typology": select(typology == "small-scale" => "Small Scale", typology == "masterplan" => "Masterplan", typology == "conservation" => "Conservation", typology == "commercial" => "Commercial", "Residential"),
+  "projects": *[_type == "project" && readyToPublish == true] | order(order asc) {
+    _id, title, "slug": slug.current, year, featured, service, typologies, owner, designCredit, completionLabel, awardText,
+    "typology": array::join(typologies, ", "),
     location, area, status, materials, summary, "description": pt::text(description),
     "image": heroImage.asset->url, "imageAlt": heroImage.alt,
     "gallery": gallery[]{"url": asset->url, alt, caption},
@@ -35,7 +35,7 @@ export async function getHomeContent(): Promise<{content: HomeContent; usingCms:
     return {
       content: {
         settings: {...fallbackContent.settings, ...Object.fromEntries(Object.entries(data.settings || {}).filter(([, value]) => value != null))},
-        projects: data.projects?.length ? data.projects : fallbackContent.projects,
+        projects: data.projects ?? fallbackContent.projects,
         activities: (data.activities ?? fallbackContent.activities).map(activity => ({...activity, registrationStatus: activity.date && (activity.endDate || activity.date) < new Intl.DateTimeFormat('sv-SE', {timeZone: 'Asia/Bangkok'}).format(new Date()) ? 'Past event' : activity.registrationStatus})),
         recognitions: data.recognitions?.length ? data.recognitions : fallbackContent.recognitions,
       },

@@ -211,3 +211,7 @@ body.modal-open { overflow: hidden; }
 .public-site .activity-story:has(.activity-poster:empty){grid-template-columns:1fr}
 @media(max-width:640px){.public-site .archive-event summary{grid-template-columns:1fr;gap:12px}}
 .public-site .activity-text-only{grid-template-columns:1fr}
+.public-site .modal-lede,.public-site .award-note{white-space:pre-line}
+.public-site .project-meta{gap:12px;flex-wrap:wrap}
+
+.public-site .filters > span{align-self:center;min-width:62px;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:#aaa}

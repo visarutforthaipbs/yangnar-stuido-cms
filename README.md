@@ -1,6 +1,6 @@
 # Yangnar Studio Website + CMS
 
-Official single-page website and content management system for Yangnar Studio. The public frontend is built with Next.js, while content, images, schemas, and the hosted editor use Sanity.
+Official multi-page website and content management system for Yangnar Studio. The public frontend is built with Next.js, while content, images, schemas, and the hosted editor use Sanity.
 
 ## Live services
 
@@ -46,9 +46,6 @@ On Vercel, `/studio` redirects editors to the Studio hosted by Sanity. Local dev
 ## Content operations
 
 ```bash
-# Import or refresh the mock archive without creating duplicates
-npm run import:mock
-
 # Publish schema and Studio updates to Sanity Hosting
 npm run deploy:studio
 ```
@@ -76,3 +73,13 @@ The frontend reads published CMS content through Sanity's public API and refresh
 - `/studio`: CMS (kept separate from the public Studio page at `/about`)
 
 All public pages use the existing Sanity content. The inquiry form still prepares a summary; delivery integration is not implemented.
+
+## Approved project collection
+
+The September 2026 CSV supplies 25 projects. `sanity/projects-2026-09.json` preserves its project fields, separates Service from multiple Typologies, and uses the Completion Year column as authoritative. Public years use the Gregorian value. Owner and design credits are separate. English awards are retained as supplied project text.
+
+A project appears publicly when its published document has **Ready for publication** enabled. **Show in selected works** controls the home page independently. Previous demo documents remain hidden for recovery. Existing matching URLs are preserved.
+
+The reviewed cover/exclusion choices are recorded in `sanity/project-media-selection.json`. Original photos and their Drive file IDs are recorded locally in `.sanity/project-downloads/manifest.json`; backups are under `.sanity/backups/`. These ignored folders are not deployed or committed. Each CMS image stores its source file ID and original filename. Website copies use optimized WebP images; original downloads remain untouched. Initial galleries contain a cover and up to 12 additional photographs. The Is-sara selection uses the supplied folder's Photo Drone collection.
+
+`sanity/scripts/importApprovedProjects.ts` requires that local download manifest, cover choices, exclusion list, original files, and an authenticated Sanity CLI session. It uploads assets first, then publishes the 25 records in one transaction. Re-running resets imported records to the reviewed source, so it is a migration tool rather than an ongoing editor sync. Editors should make subsequent changes in Sanity Studio. `sanity/approved-projects-published.json` provides a matching fallback snapshot if the CMS API is unavailable. Do not run the legacy mock importer against production.
