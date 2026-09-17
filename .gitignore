@@ -6,3 +6,6 @@ node_modules/
 .env.local
 .vercel/
 *.tsbuildinfo
+
+# Private client contracts, quotations, invoices, and project records
+/เอกสารสำหรับยางนา/

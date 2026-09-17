@@ -1,0 +1,417 @@
+{
+  "projects": [
+    {
+      "_id": "project-baan-tita",
+      "_type": "project",
+      "title": "Baan Tita House",
+      "slug": {
+        "_type": "slug",
+        "current": "baan-tita"
+      },
+      "featured": true,
+      "order": 1,
+      "year": 2021,
+      "typology": "residential",
+      "location": "San Kamphaeng District, Chiang Mai, Thailand",
+      "area": "150 sq.m.",
+      "status": "Completed",
+      "materials": [],
+      "summary": "150 sq.m. · San Kamphaeng District, Chiang Mai, Thailand",
+      "description": [
+        {
+          "_type": "block",
+          "_key": "intro",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "text",
+              "marks": [],
+              "text": "150 sq.m. · San Kamphaeng District, Chiang Mai, Thailand"
+            }
+          ]
+        }
+      ],
+      "heroImage": "/profile/images/project-baan-tita-house/p24-01.jpg",
+      "gallery": [
+        "/profile/images/project-baan-tita-house/p25-01.jpg",
+        "/profile/images/project-baan-tita-house/p25-02.jpg",
+        "/profile/images/project-baan-tita-house/p25-03.jpg",
+        "/profile/images/project-baan-tita-house/p25-04.jpg",
+        "/profile/images/project-baan-tita-house/p25-05.jpg",
+        "/profile/images/project-baan-tita-house/p25-06.jpg"
+      ],
+      "awards": [],
+      "pressUrl": "https://www.archdaily.com/998080/baan-tita-house-yangnar-studio"
+    },
+    {
+      "_id": "project-kha-nam-noi",
+      "_type": "project",
+      "title": "Kha-nam Noi House",
+      "slug": {
+        "_type": "slug",
+        "current": "kha-nam-noi"
+      },
+      "featured": true,
+      "order": 2,
+      "year": 2019,
+      "typology": "residential",
+      "location": "In Buri District, Sing Buri, Thailand",
+      "area": "148 sq.m.",
+      "status": "Completed",
+      "materials": [],
+      "summary": "148 sq.m. · In Buri District, Sing Buri, Thailand",
+      "description": [
+        {
+          "_type": "block",
+          "_key": "intro",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "text",
+              "marks": [],
+              "text": "148 sq.m. · In Buri District, Sing Buri, Thailand"
+            }
+          ]
+        }
+      ],
+      "heroImage": "/profile/images/project-kha-nam-noi-house/p18-01.jpg",
+      "gallery": [
+        "/profile/images/project-kha-nam-noi-house/p18-02.jpg",
+        "/profile/images/project-kha-nam-noi-house/p19-01.jpg",
+        "/profile/images/project-kha-nam-noi-house/p19-02.jpg",
+        "/profile/images/project-kha-nam-noi-house/p19-03.jpg",
+        "/profile/images/project-kha-nam-noi-house/p19-04.jpg",
+        "/profile/images/project-kha-nam-noi-house/p19-05.jpg"
+      ],
+      "awards": [],
+      "pressUrl": "https://www.archdaily.com/985919/kha-nam-noi-house-yangnar-studio"
+    },
+    {
+      "_id": "project-thingamajiggy",
+      "_type": "project",
+      "title": "Thingamajiggy",
+      "slug": {
+        "_type": "slug",
+        "current": "thingamajiggy"
+      },
+      "featured": true,
+      "order": 3,
+      "year": 2023,
+      "typology": "commercial",
+      "location": "Mae Rim District, Chiang Mai, Thailand",
+      "area": "21 sq.m.",
+      "status": "Completed",
+      "materials": [
+        "Bamboo"
+      ],
+      "summary": "21 sq.m. · Mae Rim District, Chiang Mai, Thailand",
+      "description": [
+        {
+          "_type": "block",
+          "_key": "intro",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "text",
+              "marks": [],
+              "text": "21 sq.m. · Mae Rim District, Chiang Mai, Thailand"
+            }
+          ]
+        }
+      ],
+      "heroImage": "/profile/images/project-thingamajiggy/p42-01.jpg",
+      "gallery": [
+        "/profile/images/project-thingamajiggy/p43-01.jpg",
+        "/profile/images/project-thingamajiggy/p43-02.jpg",
+        "/profile/images/project-thingamajiggy/p43-03.jpg",
+        "/profile/images/project-thingamajiggy/p43-04.jpg",
+        "/profile/images/project-thingamajiggy/p43-05.jpg",
+        "/profile/images/project-thingamajiggy/p43-06.jpg"
+      ],
+      "awards": [],
+      "pressUrl": "https://www.archdaily.com/1008264/thingamajiggy-coffee-roaster-yangnar-studio"
+    },
+    {
+      "_id": "project-sala-yangnar",
+      "_type": "project",
+      "title": "Sala Yangnar",
+      "slug": {
+        "_type": "slug",
+        "current": "sala-yangnar"
+      },
+      "featured": true,
+      "order": 4,
+      "year": 2023,
+      "typology": "small-scale",
+      "location": "San Kamphaeng, Chiang Mai, Thailand",
+      "area": "52 sq.m.",
+      "status": "Completed",
+      "materials": [],
+      "summary": "52 sq.m. · San Kamphaeng, Chiang Mai, Thailand",
+      "description": [
+        {
+          "_type": "block",
+          "_key": "intro",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "text",
+              "marks": [],
+              "text": "52 sq.m. · San Kamphaeng, Chiang Mai, Thailand"
+            }
+          ]
+        }
+      ],
+      "heroImage": "/profile/images/project-sala-yangnar/p36-01.jpg",
+      "gallery": [
+        "/profile/images/project-sala-yangnar/p37-01.jpg",
+        "/profile/images/project-sala-yangnar/p37-02.jpg",
+        "/profile/images/project-sala-yangnar/p37-03.jpg",
+        "/profile/images/project-sala-yangnar/p37-04.jpg",
+        "/profile/images/project-sala-yangnar/p37-05.jpg",
+        "/profile/images/project-sala-yangnar/p37-06.jpg"
+      ],
+      "awards": [],
+      "pressUrl": "https://www.archdaily.com/1024413/sala-yangnar-yangnar-studio"
+    },
+    {
+      "_id": "project-yong-house",
+      "_type": "project",
+      "title": "Yong House",
+      "slug": {
+        "_type": "slug",
+        "current": "yong-house"
+      },
+      "featured": true,
+      "order": 5,
+      "year": 2021,
+      "typology": "conservation",
+      "location": "Hang Dong District, Chiang Mai, Thailand",
+      "area": "300 sq.m.",
+      "status": "Completed",
+      "materials": [],
+      "summary": "300 sq.m. · Hang Dong District, Chiang Mai, Thailand",
+      "description": [
+        {
+          "_type": "block",
+          "_key": "intro",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "text",
+              "marks": [],
+              "text": "300 sq.m. · Hang Dong District, Chiang Mai, Thailand"
+            }
+          ]
+        }
+      ],
+      "heroImage": "/profile/images/project-yong-house/p51-01.jpg",
+      "gallery": [
+        "/profile/images/project-yong-house/p52-01.jpg",
+        "/profile/images/project-yong-house/p52-02.jpg",
+        "/profile/images/project-yong-house/p52-03.jpg",
+        "/profile/images/project-yong-house/p52-04.jpg",
+        "/profile/images/project-yong-house/p52-05.jpg",
+        "/profile/images/project-yong-house/p52-06.jpg"
+      ],
+      "awards": [],
+      "pressUrl": null
+    },
+    {
+      "_id": "project-baan-sri-inpun",
+      "_type": "project",
+      "title": "Baan Sri-Inpun",
+      "slug": {
+        "_type": "slug",
+        "current": "baan-sri-inpun"
+      },
+      "featured": true,
+      "order": 6,
+      "typology": "masterplan",
+      "location": "Nan, Thailand",
+      "area": "16 rai",
+      "materials": [],
+      "summary": "A landscape of 14 contemporary Lanna-style houses.",
+      "description": [
+        {
+          "_type": "block",
+          "_key": "intro",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "text",
+              "marks": [],
+              "text": "Baan Sri-Inpun is a cluster of 14 contemporary Lanna-style houses, set within a 16-rai landscape in Nan."
+            }
+          ]
+        }
+      ],
+      "heroImage": "/profile/images/landscape-baan-sri-inpun/p54-01.jpg",
+      "gallery": [
+        "/profile/images/landscape-baan-sri-inpun/p55-01.jpg",
+        "/profile/images/landscape-baan-sri-inpun/p55-02.jpg",
+        "/profile/images/landscape-baan-sri-inpun/p55-03.jpg",
+        "/profile/images/landscape-baan-sri-inpun/p55-04.jpg",
+        "/profile/images/landscape-baan-sri-inpun/p55-05.jpg",
+        "/profile/images/landscape-baan-sri-inpun/p55-06.jpg"
+      ],
+      "awards": []
+    }
+  ],
+  "settings": {
+    "heroIntro": "Founded in 2011, Yangnar Studio brings together architects and craftspeople from Chiang Mai and Lampang to carry local building knowledge into contemporary life.",
+    "philosophy": [
+      {
+        "_type": "block",
+        "_key": "intro",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Our architecture grows from local materials, environmental conditions and ways of living. We adapt traditional knowledge to create comfortable places that support self-sufficient living."
+          }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "_type": "block",
+        "_key": "intro",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Architecture, landscape and construction come together through the shared knowledge of designers, engineers and craftspeople."
+          }
+        ]
+      }
+    ],
+    "founders": [
+      {
+        "_key": "founder1",
+        "name": "Dechophon Rattanasatchatham",
+        "role": "Co-founder · Architectural Design",
+        "image": "/profile/images/founders/p03-01.jpg"
+      },
+      {
+        "_key": "founder2",
+        "name": "Phongsathorn Sawadchadchawan",
+        "role": "Co-founder · Landscape Design",
+        "image": "/profile/images/founders/p03-02.jpg"
+      },
+      {
+        "_key": "founder3",
+        "name": "Rungroj Tansukanun",
+        "role": "Co-founder · Construction",
+        "image": "/profile/images/founders/p03-03.jpg"
+      }
+    ],
+    "philosophyPillars": [
+      {
+        "_key": "pillar0",
+        "title": "Harmony with Nature",
+        "description": "Designing with nature and connecting everyday life to the surrounding environment.",
+        "image": "/profile/images/principle-harmony/p07-02.jpg"
+      },
+      {
+        "_key": "pillar1",
+        "title": "Local Materials",
+        "description": "Using locally available materials that suit the place and the building process.",
+        "image": "/profile/images/principle-utilizing-locally/p08-01.jpg"
+      },
+      {
+        "_key": "pillar2",
+        "title": "Indigenous Knowledge",
+        "description": "Drawing on Southeast Asian knowledge and traditional wisdom in design and construction.",
+        "image": "/profile/images/principle-indigenous-knowledge/p09-01.jpg"
+      },
+      {
+        "_key": "pillar3",
+        "title": "Participation",
+        "description": "Encouraging hands-on involvement, shared ownership and long-term care.",
+        "image": "/profile/images/traditional-techniques/p58-01.jpg"
+      }
+    ],
+    "services": [
+      {
+        "_key": "service0",
+        "title": "Architecture",
+        "description": "Architectural design, construction drawings and construction supervision."
+      },
+      {
+        "_key": "service1",
+        "title": "Interior",
+        "description": "Site surveys, interior design and construction drawings."
+      },
+      {
+        "_key": "service2",
+        "title": "Landscape",
+        "description": "Landscape design, planting specifications and construction supervision."
+      },
+      {
+        "_key": "service3",
+        "title": "Renovation",
+        "description": "Design and supervision for adapting existing buildings."
+      }
+    ],
+    "craftImage": "/profile/images/traditional-techniques/p58-04.jpg",
+    "publications": [
+      {
+        "_key": "publication0",
+        "title": "Selected books & publications",
+        "image": "/profile/images/publications/p60-01.jpg"
+      },
+      {
+        "_key": "publication1",
+        "title": "Architecture, wood & landscape",
+        "image": "/profile/images/publications/p61-01.jpg"
+      }
+    ]
+  },
+  "activity": {
+    "_id": "activity-pham-workshop",
+    "_type": "activity",
+    "title": "Pham — Learning through making",
+    "slug": {
+      "_type": "slug",
+      "current": "pham-learning-through-making"
+    },
+    "location": "San Kamphaeng, Chiang Mai",
+    "summary": "A space for craft and shared learning.",
+    "body": [
+      {
+        "_type": "block",
+        "_key": "intro",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "text",
+            "marks": [],
+            "text": "Pham is a 9 sq.m. small-scale structure completed in 2023. Contact the studio to discuss workshops and activities."
+          }
+        ]
+      }
+    ],
+    "coverImage": "/profile/images/project-pham/p38-01.jpg"
+  }
+}

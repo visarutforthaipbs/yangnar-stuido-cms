@@ -7,6 +7,7 @@ export const recognitionType = defineType({
   fields: [
     defineField({name: 'title', title: 'Title', type: 'string', validation: (rule) => rule.required()}),
     defineField({name: 'kind', title: 'Type', type: 'string', options: {list: ['Award', 'Press', 'Exhibition']}, validation: (rule) => rule.required()}),
+    defineField({name: 'hidden', title: 'Hide from website pending verification', type: 'boolean', initialValue: false}),
     defineField({name: 'year', title: 'Year', type: 'number'}),
     defineField({name: 'source', title: 'Organisation or publication', type: 'string'}),
     defineField({name: 'url', title: 'External link', type: 'url'}),

@@ -1,10 +1,11 @@
+import type {PortableTextBlock} from 'next-sanity'
 export type Recognition = {_id: string; title: string; kind: string; year?: number; source?: string; url?: string}
 
 export type Project = {
   _id: string
   title: string
   slug: string
-  year: number
+  year?: number
   typology: string
   location: string
   area?: string
@@ -27,8 +28,11 @@ export type SiteSettings = {
   heroImage: string
   philosophy: string
   practice: string
-  philosophyPillars: Array<{title: string; description: string}>
-  founders: Array<{name: string; role: string}>
+  philosophyPillars: Array<{title: string; description: string; image?: string}>
+  founders: Array<{name: string; role: string; image?: string}>
+  craftImage?: string
+  services?: Array<{title: string; description: string}>
+  publications?: Array<{title: string; image: string}>
   workflow: string[]
   email: string
   phone: string
@@ -38,7 +42,7 @@ export type SiteSettings = {
   budgetOptions: string[]
 }
 
-export type Activity = {_id: string; title: string; location?: string; summary: string; body: string; image: string}
+export type Activity = {endDate?: string; date?: string; time?: string; registrationStatus?: string; mapUrl?: string; price?: number; discount?: string; minimumAge?: number; capacity?: number; registrationUrl?: string; contactPhone?: string; details?: PortableTextBlock[]; imageAlt?: string; gallery?: Array<{url: string; alt?: string; caption?: string}>; _id: string; title: string; location?: string; summary: string; body: string; image: string}
 export type HomeContent = {settings: SiteSettings; projects: Project[]; activities: Activity[]; recognitions: Recognition[]}
 
 export const fallbackContent: HomeContent = {

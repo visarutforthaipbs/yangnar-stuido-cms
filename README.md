@@ -64,3 +64,15 @@ npm run build
 ```
 
 The frontend reads published CMS content through Sanity's public API and refreshes its cached content every 60 seconds. Local fallback content keeps the page usable during a temporary API failure.
+
+## Public website routes
+
+- `/`: introduction and four selected works
+- `/projects`: project archive with filters
+- `/projects/[slug]`: shareable project detail and gallery; unknown slugs return 404
+- `/about`: studio, philosophy, founders, services, process and recognition
+- `/pham`: workshop and activities introduction
+- `/contact`: contact information and inquiry preview
+- `/studio`: CMS (kept separate from the public Studio page at `/about`)
+
+All public pages use the existing Sanity content. The inquiry form still prepares a summary; delivery integration is not implemented.
