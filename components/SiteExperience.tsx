@@ -68,7 +68,7 @@ export function SiteExperience({content, page = 'home', project: selected}: {con
       <section className="studio-intro section-pad"><p>Architecture.<br />Craft. Place.<br />Since 2011.</p><div><h2>{settings.heroIntro}</h2><Link className="text-link" href="/about">Discover our practice <ArrowIcon /></Link></div></section>
 
       </>}
-      {(page === 'home' || page === 'projects') && <section className="works section-pad" id="works">
+      {(page === 'home' || page === 'projects') && <section className={`works section-pad ${page === 'projects' ? 'works-projects' : ''}`} id="works">
         <div className="section-heading">
           <p className="eyebrow">01 / Selected works</p>
           {page === 'projects' ? <h1>Projects</h1> : <h2>Selected<br />projects</h2>}
