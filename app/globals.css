@@ -245,7 +245,7 @@ body.modal-open { overflow: hidden; }
 @media(max-width:640px){.public-site .wordmark{width:125px}}
 
 /* Persistent navigation and edge-to-edge project archive. */
-.public-site .site-header{position:sticky;top:0;z-index:50;background:rgba(17,17,17,.96);backdrop-filter:blur(12px);border-bottom:1px solid #ffffff12}
+.public-site .site-header{position:sticky;top:0;z-index:50;background:linear-gradient(180deg,rgba(17,17,17,.96) 0%,rgba(17,17,17,.8) 40%,rgba(17,17,17,.4) 75%,rgba(17,17,17,0) 100%)}
 .public-site:not(.inner-page) .hero{margin-top:-90px}
 .public-site #page-content{scroll-margin-top:90px}
 .public-site .skip-link:focus{z-index:100}
