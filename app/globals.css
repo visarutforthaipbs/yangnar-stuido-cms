@@ -271,4 +271,14 @@ body.modal-open { overflow: hidden; }
 .public-site .activity-dialog-toolbar{position:sticky;top:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:16px;padding-block:20px;background:#111;border-bottom:1px solid #343434;font-size:12px;text-transform:uppercase;letter-spacing:.05em}
 .public-site .activity-dialog-toolbar button{background:none;color:#fff;border:1px solid #666;padding:10px 14px}
 .public-site .activity-dialog .activity-story{margin-top:0;border-top:0;padding-top:28px;gap:32px}
+.public-site .activity-recap{padding-top:32px}
+.public-site .activity-recap>.activity-copy{max-width:760px;margin:0 auto 40px}
+.public-site .recap-gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;align-items:start}
+.public-site .recap-gallery figure{margin:0}
+.public-site .recap-gallery figure:first-child{grid-column:1/-1}
+.public-site .recap-gallery img{display:block;width:100%;height:auto}
+.public-site .recap-gallery figcaption{font-size:12px;color:#aaa;line-height:1.6;margin-top:8px}
+.public-site .activity-related{margin-top:32px;padding-top:24px;border-top:1px solid #444;display:grid;gap:16px}
+.public-site .activity-related button{background:none;border:0;color:#fff;text-align:left;padding:8px 0;line-height:1.6;text-decoration:underline;text-underline-offset:5px}
+@media(max-width:640px){.public-site .recap-gallery{grid-template-columns:1fr}}
 @media(max-width:640px){.public-site .activity-dialog{width:calc(100% - 20px);padding-inline:18px}.public-site .activity-badge{top:18px;left:18px}}

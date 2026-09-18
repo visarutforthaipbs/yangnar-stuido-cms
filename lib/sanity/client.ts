@@ -25,7 +25,7 @@ const homeQuery = `{
     "gallery": gallery[]{"url": asset->url, alt, caption},
     awards[]->{_id, title, kind, year, source, url}, pressUrl
   },
-  "activities": *[_type == "activity" && hidden != true] | order(date desc) {_id, title, date, endDate, time, registrationStatus, mapUrl, price, discount, minimumAge, capacity, registrationUrl, contactPhone, location, summary, "details": body, "body": pt::text(body), "image": coverImage.asset->url, "imageAlt": coverImage.alt, "gallery": gallery[]{"url": asset->url, alt, caption}},
+  "activities": *[_type == "activity" && hidden != true] | order(coalesce(publishedAt, date) desc) {_id, contentType, publishedAt, "relatedWorkshopId": relatedWorkshop._ref, title, date, endDate, time, registrationStatus, mapUrl, price, discount, minimumAge, capacity, registrationUrl, contactPhone, location, summary, "details": body, "body": pt::text(body), "image": coverImage.asset->url, "imageAlt": coverImage.alt, "imageCredit": coverImage.credit, "gallery": gallery[]{"url": asset->url, alt, caption, credit}},
   "recognitions": *[_type == "recognition" && hidden != true] | order(year desc) {_id, title, kind, year, source, url}
 }`
 
@@ -36,7 +36,7 @@ export async function getHomeContent(): Promise<{content: HomeContent; usingCms:
       content: {
         settings: {...fallbackContent.settings, ...Object.fromEntries(Object.entries(data.settings || {}).filter(([, value]) => value != null))},
         projects: data.projects ?? fallbackContent.projects,
-        activities: (data.activities ?? fallbackContent.activities).map(activity => ({...activity, registrationStatus: activity.date && (activity.endDate || activity.date) < new Intl.DateTimeFormat('sv-SE', {timeZone: 'Asia/Bangkok'}).format(new Date()) ? 'Past event' : activity.registrationStatus})),
+        activities: (data.activities ?? fallbackContent.activities).map(activity => ({...activity, registrationStatus: activity.contentType === 'recap' ? undefined : activity.date && (activity.endDate || activity.date) < new Intl.DateTimeFormat('sv-SE', {timeZone: 'Asia/Bangkok'}).format(new Date()) ? 'Past event' : activity.registrationStatus})),
         recognitions: data.recognitions?.length ? data.recognitions : fallbackContent.recognitions,
       },
       usingCms: Boolean(data.projects?.length),

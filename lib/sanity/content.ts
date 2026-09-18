@@ -49,7 +49,7 @@ export type SiteSettings = {
   budgetOptions: string[]
 }
 
-export type Activity = {endDate?: string; date?: string; time?: string; registrationStatus?: string; mapUrl?: string; price?: number; discount?: string; minimumAge?: number; capacity?: number; registrationUrl?: string; contactPhone?: string; details?: PortableTextBlock[]; imageAlt?: string; gallery?: Array<{url: string; alt?: string; caption?: string}>; _id: string; title: string; location?: string; summary: string; body: string; image: string}
+export type Activity = {contentType?: 'announcement' | 'recap'; publishedAt?: string; relatedWorkshopId?: string; imageCredit?: string; endDate?: string; date?: string; time?: string; registrationStatus?: string; mapUrl?: string; price?: number; discount?: string; minimumAge?: number; capacity?: number; registrationUrl?: string; contactPhone?: string; details?: PortableTextBlock[]; imageAlt?: string; gallery?: Array<{url: string; alt?: string; caption?: string; credit?: string}>; _id: string; title: string; location?: string; summary: string; body: string; image: string}
 export type HomeContent = {settings: SiteSettings; projects: Project[]; activities: Activity[]; recognitions: Recognition[]}
 
 export const fallbackContent: HomeContent = {
